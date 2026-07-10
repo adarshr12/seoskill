@@ -181,8 +181,20 @@ Update this table as each batch is written, so future sessions don't duplicate w
 | 93 | How to define a product-led growth strategy | [how-to-define-a-product-led-growth-strategy.md](../content/articles/how-to-define-a-product-led-growth-strategy.md) | Published |
 | 98 | How to design a self-serve onboarding funnel | [how-to-design-a-self-serve-onboarding-funnel.md](../content/articles/how-to-design-a-self-serve-onboarding-funnel.md) | Published |
 | 99 | How to reduce time to first value in onboarding | [how-to-reduce-time-to-first-value-in-onboarding.md](../content/articles/how-to-reduce-time-to-first-value-in-onboarding.md) | Published |
+| 100 | Viral loops and referral mechanics explained | [viral-loops-and-referral-mechanics-explained.md](../content/articles/viral-loops-and-referral-mechanics-explained.md) | Published |
+| 101 | What is a growth loop vs a funnel | [what-is-a-growth-loop-vs-a-funnel.md](../content/articles/what-is-a-growth-loop-vs-a-funnel.md) | Published |
+| 102 | How to run growth experiments as a PM | [how-to-run-growth-experiments-as-a-pm.md](../content/articles/how-to-run-growth-experiments-as-a-pm.md) | Published |
+| 103 | What is a PLG motion for B2B SaaS | [what-is-a-plg-motion-for-b2b-saas.md](../content/articles/what-is-a-plg-motion-for-b2b-saas.md) | Published |
+| 104 | How to build an activation flywheel | [how-to-build-an-activation-flywheel.md](../content/articles/how-to-build-an-activation-flywheel.md) | Published |
+| 105 | Examples of successful product-led growth companies | [examples-of-successful-product-led-growth-companies.md](../content/articles/examples-of-successful-product-led-growth-companies.md) | Published |
+| 106 | How to design user onboarding that reduces drop-off | [how-to-design-user-onboarding-that-reduces-drop-off.md](../content/articles/how-to-design-user-onboarding-that-reduces-drop-off.md) | Published |
+| 107 | What is expansion revenue and how to drive it | [what-is-expansion-revenue-and-how-to-drive-it.md](../content/articles/what-is-expansion-revenue-and-how-to-drive-it.md) | Published |
+| 108 | Net revenue retention (NRR) explained | [net-revenue-retention-explained.md](../content/articles/net-revenue-retention-explained.md) | Published |
+| 109 | How to build a referral program that works | [how-to-build-a-referral-program-that-works.md](../content/articles/how-to-build-a-referral-program-that-works.md) | Published |
+| 110 | Product-led vs sales-led — how to choose for your startup | [product-led-vs-sales-led-how-to-choose-for-your-startup.md](../content/articles/product-led-vs-sales-led-how-to-choose-for-your-startup.md) | Published |
+| 112 | How to write user stories effectively (with template) | [how-to-write-user-stories-effectively.md](../content/articles/how-to-write-user-stories-effectively.md) | Published |
 
-**143 of 297 topics published.** Roadmapping & Prioritization cluster is now fully complete. Product-Led Growth & Growth Strategies cluster underway. Working through remaining P2 clusters next.
+**155 of 297 topics published.** Product-Led Growth & Growth Strategies cluster is now fully complete. User Stories & Requirements Writing cluster underway. Working through remaining P2 clusters next.
 
 ### Two ways to get this content live
 
