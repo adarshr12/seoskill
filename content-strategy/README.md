@@ -266,7 +266,20 @@ Update this table as each batch is written, so future sessions don't duplicate w
 | 225 | Common guesstimate interview questions with solutions | [common-guesstimate-interview-questions-with-solutions.md](../content/articles/common-guesstimate-interview-questions-with-solutions.md) | Published |
 | 226 | T-shirt sizing vs story points — which to use | [t-shirt-sizing-vs-story-points-which-to-use.md](../content/articles/t-shirt-sizing-vs-story-points-which-to-use.md) | Published |
 
-**227 of 297 topics published.** Agile Terminology Deep-Dive (13/15) and Estimation & Guesstimates (6/10) clusters nearly complete. Certifications cluster (4 topics) and remaining P2/P3 topics next.
+| 227 | How to estimate effort without engineering input | [how-to-estimate-effort-without-engineering-input.md](../content/articles/how-to-estimate-effort-without-engineering-input.md) | Published |
+| 228 | Fermi estimation technique for product managers | [fermi-estimation-technique-for-product-managers.md](../content/articles/fermi-estimation-technique-for-product-managers.md) | Published |
+| 229 | Top-down vs bottom-up market sizing approach | [top-down-vs-bottom-up-market-sizing-approach.md](../content/articles/top-down-vs-bottom-up-market-sizing-approach.md) | Published |
+| 230 | How to estimate a feature's development timeline | [how-to-estimate-a-features-development-timeline.md](../content/articles/how-to-estimate-a-features-development-timeline.md) | Published |
+| 232 | How to write clear acceptance criteria (with examples) | [how-to-write-clear-acceptance-criteria.md](../content/articles/how-to-write-clear-acceptance-criteria.md) | Published |
+| 233 | Given-When-Then format for acceptance criteria | [given-when-then-format-for-acceptance-criteria.md](../content/articles/given-when-then-format-for-acceptance-criteria.md) | Published |
+| 234 | How to gather requirements from non-technical stakeholders | [how-to-gather-requirements-from-non-technical-stakeholders.md](../content/articles/how-to-gather-requirements-from-non-technical-stakeholders.md) | Published |
+| 235 | Requirement elicitation techniques (interviews, workshops, surveys) | [requirement-elicitation-techniques.md](../content/articles/requirement-elicitation-techniques.md) | Published |
+| 236 | How to prioritize conflicting requirements from stakeholders | [how-to-prioritize-conflicting-requirements-from-stakeholders.md](../content/articles/how-to-prioritize-conflicting-requirements-from-stakeholders.md) | Published |
+| 237 | How to document edge cases in requirements | [how-to-document-edge-cases-in-requirements.md](../content/articles/how-to-document-edge-cases-in-requirements.md) | Published |
+| 238 | Functional requirements checklist for PMs | [functional-requirements-checklist-for-pms.md](../content/articles/functional-requirements-checklist-for-pms.md) | Published |
+| 239 | How to validate requirements before development starts | [how-to-validate-requirements-before-development-starts.md](../content/articles/how-to-validate-requirements-before-development-starts.md) | Published |
+
+**239 of 297 topics published.** Estimation & Guesstimates cluster is now fully complete. Agile Terminology Deep-Dive (13/15) and Requirement Gathering & Documentation (11/12) nearly complete. Certifications cluster (4 topics) and remaining P2/P3 topics next.
 
 ### Two ways to get this content live
 
