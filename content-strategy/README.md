@@ -217,8 +217,20 @@ Update this table as each batch is written, so future sessions don't duplicate w
 | 146 | What is Definition of Done in Agile | [what-is-definition-of-done-in-agile.md](../content/articles/what-is-definition-of-done-in-agile.md) | Published |
 | 147 | What is Definition of Ready for user stories | [what-is-definition-of-ready-for-user-stories.md](../content/articles/what-is-definition-of-ready-for-user-stories.md) | Published |
 | 148 | Story points vs hours estimation — which is better | [story-points-vs-hours-estimation-which-is-better.md](../content/articles/story-points-vs-hours-estimation-which-is-better.md) | Published |
+| 149 | Planning poker explained for Agile estimation | [planning-poker-explained-for-agile-estimation.md](../content/articles/planning-poker-explained-for-agile-estimation.md) | Published |
+| 151 | What is a sprint retrospective and how to run one | [what-is-a-sprint-retrospective-and-how-to-run-one.md](../content/articles/what-is-a-sprint-retrospective-and-how-to-run-one.md) | Published |
+| 152 | SAFe (Scaled Agile Framework) explained | [safe-explained.md](../content/articles/safe-explained.md) | Published |
+| 154 | Certified Scrum Product Owner (CSPO) — is it worth it | [certified-scrum-product-owner-is-it-worth-it.md](../content/articles/certified-scrum-product-owner-is-it-worth-it.md) | Published |
+| 155 | How to manage a backlog across multiple stakeholders | [how-to-manage-a-backlog-across-multiple-stakeholders.md](../content/articles/how-to-manage-a-backlog-across-multiple-stakeholders.md) | Published |
+| 157 | Project manager vs program manager vs product manager | [project-manager-vs-program-manager-vs-product-manager.md](../content/articles/project-manager-vs-program-manager-vs-product-manager.md) | Published |
+| 160 | What is critical path method (CPM) in project management | [what-is-critical-path-method-in-project-management.md](../content/articles/what-is-critical-path-method-in-project-management.md) | Published |
+| 161 | Gantt chart explained for beginners | [gantt-chart-explained-for-beginners.md](../content/articles/gantt-chart-explained-for-beginners.md) | Published |
+| 162 | What is scope creep and how to prevent it | [what-is-scope-creep-and-how-to-prevent-it.md](../content/articles/what-is-scope-creep-and-how-to-prevent-it.md) | Published |
+| 163 | Risk management framework for project managers | [risk-management-framework-for-project-managers.md](../content/articles/risk-management-framework-for-project-managers.md) | Published |
+| 165 | Project management triangle (scope, time, cost) explained | [project-management-triangle-explained.md](../content/articles/project-management-triangle-explained.md) | Published |
+| 166 | How to run an effective project kickoff meeting | [how-to-run-an-effective-project-kickoff-meeting.md](../content/articles/how-to-run-an-effective-project-kickoff-meeting.md) | Published |
 
-**179 of 297 topics published.** Business Analysis Specific cluster is now fully complete. Product Owner / Scrum / Agile cluster underway. Working through remaining P2 clusters next.
+**191 of 297 topics published.** Product Owner / Scrum / Agile cluster is now fully complete. Project Management Specific cluster underway. Working through remaining P2 clusters next.
 
 ### Two ways to get this content live
 
