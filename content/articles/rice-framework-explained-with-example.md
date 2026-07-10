@@ -1,6 +1,6 @@
 ---
 title: "RICE Framework Explained With a Full Worked Example (2026)"
-meta_description: "The RICE framework scores features by Reach, Impact, Confidence, and Effort. See the exact formula, a full worked example with real numbers, and where RICE breaks down."
+meta_description: "The RICE framework scores features by Reach, Impact, Confidence, and Effort. See the formula, a full worked example, and where RICE breaks down."
 url_slug: /product-frameworks/rice-framework-explained-with-example
 primary_keyword: rice framework explained with example
 secondary_keywords: rice scoring model, reach impact confidence effort, rice framework formula

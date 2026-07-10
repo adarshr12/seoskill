@@ -1,6 +1,6 @@
 ---
 title: "What Is a RACI Matrix? Definition, Template, and How to Use It (2026)"
-meta_description: "A RACI matrix maps every task to who's Responsible, Accountable, Consulted, and Informed. See the definition, a filled-in example, and a free copy-paste template."
+meta_description: "A RACI matrix maps every task to who's Responsible, Accountable, Consulted, and Informed. See the definition, a filled-in example, and a free template."
 url_slug: /business-analyst/what-is-a-raci-matrix-and-how-to-use-it
 primary_keyword: what is a raci matrix and how to use it
 secondary_keywords: raci matrix definition, raci matrix template, raci matrix example
