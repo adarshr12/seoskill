@@ -2,6 +2,23 @@
 
 This is the execution rulebook for every one of the 295 articles in `content-calendar-295-topics.csv`. It follows the research → build → optimize → monitor structure of the skills in this repo, adapted since the underlying skill packages are signposted to an external bundle ([`aaron-marketing-skills`](https://github.com/aaron-he-zhu/aaron-marketing-skills) — not accessible from this session) rather than expanded to full instructions here.
 
+## Writing style guide — plain language, zero assumed expertise
+
+Added per explicit instruction: readers are **not experts**. Someone brand-new to the field — a student, a career-switcher, someone whose manager just told them to "go read about RACI matrices" — should be able to read any article start to finish and understand every sentence on the first pass, with no outside lookup required. This governs every sentence, on top of (not instead of) the SEO/GEO structure above.
+
+**Rules:**
+
+1. **Every sentence must be complete and make sense on its own.** No fragments, no sentences that only make sense if you already know the answer. If a sentence needs the next sentence to be understood, rewrite both.
+2. **Define every term the moment it's first used — not just in a glossary box.** Don't write "the PO manages the backlog" and assume the reader knows what a backlog is; write "the product owner manages the backlog — the running list of everything the team might build next." Do this inline, even if it feels repetitive with the Quick Facts box; the box is a scan aid, the inline definition is what actually teaches.
+3. **Keep sentences short.** One idea per sentence. If a sentence has more than one comma-separated clause doing real work, split it into two sentences.
+4. **Prefer plain words over business jargon.** "Use" instead of "leverage," "goal" instead of "north star" (unless North Star Metric is literally the topic), "work together" instead of "align cross-functionally," "help" instead of "enable." If a jargon term is unavoidable because it's the industry-standard name for something (RICE, MVP, Scrum), keep the term but explain it in plain words right next to it.
+5. **No AI-cliché phrasing.** Banned openers/fillers: "In today's fast-paced world," "It's important to note that," "delve into," "seamless," "robust," "game-changer," "unlock," "in the realm of," restating the H1/question as the first sentence, and hedge-padding ("it depends," "there's no one-size-fits-all answer") used as a way to avoid actually answering.
+6. **Explain the "why," not just the "what," for a total beginner.** Don't just say what a term means — say why it exists and what problem it solves, since a non-expert reader's real question is usually "why do I need to know this," not just "what is the definition."
+7. **Use concrete numbers and named examples instead of abstractions.** This was already true for SEO/GEO reasons (§3 above); it's doubly true for a beginner reader, who understands "Ledgerly spent $600 to acquire one customer" far faster than "the average acquisition cost per unit."
+8. **This does not mean dumbing down or cutting depth.** The article still needs to be complete and cover the topic properly — simple language, full coverage. Simplicity is about *how* something is explained, not about explaining less.
+
+**This does not change the SEO/GEO structure rules** (direct-answer lead, tables, FAQ schema, keyword placement) — it changes the sentence-level prose inside that structure. A direct-answer lead should still be one self-contained, quotable sentence — it should also be one a total beginner understands without re-reading.
+
 ## Site architecture — build a pillar/cluster model, not 295 loose posts
 
 Each of your 18 topic clusters maps to one **pillar page** (see `pillar_page`/`pillar_slug` columns in the calendar CSV):
@@ -98,6 +115,9 @@ Tool-vendor content (ProductPlan, monday.com, Asana) is written to avoid offendi
 - [ ] Alt text on every image describing content, not keyword-stuffed
 - [ ] "Last updated" date that's true
 - [ ] Word count matches the calendar's `target_word_count` band for that format — don't pad past what the topic needs
+- [ ] Every technical term defined in plain words the moment it's first used (not just in the Quick Facts box)
+- [ ] No sentence longer than ~20-25 words without a clear reason; no sentence that only makes sense after reading the next one
+- [ ] No AI-cliché phrasing (see Writing Style Guide above)
 
 ## Content refresh cadence
 

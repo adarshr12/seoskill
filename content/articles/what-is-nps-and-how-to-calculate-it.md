@@ -10,65 +10,66 @@ target_word_count: 1300-1700
 schema: [Article, FAQPage, Table, HowTo]
 last_updated: 2026-07-10
 author: "Adarsh Rajoria — Product & Business Analysis Writer"
+style: plain-language
 ---
 
 # What Is NPS (Net Promoter Score) and How to Calculate It?
 
-**Net Promoter Score (NPS)** measures customer loyalty by asking one question — "How likely are you to recommend [product] to a friend or colleague?" — on a 0-10 scale, then subtracting the percentage of detractors from the percentage of promoters. The result is a single number from **-100 to +100**. It was created by Fred Reichheld in 2003 and remains the most widely tracked loyalty metric in SaaS and consumer products.
+**Net Promoter Score**, usually shortened to **NPS**, is a way to measure how loyal your customers are. You ask them one question — "How likely are you to recommend this product to a friend or colleague?" — on a scale from 0 to 10. Then you work out the percentage of unhappy customers and subtract it from the percentage of happy, loyal customers. The result is a single number, somewhere between **-100 and +100**. A researcher named Fred Reichheld created NPS in 2003, and it's still the most common way that software and consumer companies track customer loyalty today.
 
 ## Quick facts
 
-- Formula: **NPS = % Promoters − % Detractors**
-- Promoters: score 9-10 (loyal, likely to refer others)
-- Passives: score 7-8 (satisfied but not enthusiastic — excluded from the formula)
-- Detractors: score 0-6 (unhappy, potential churn/reputation risk)
-- Range: **-100** (everyone is a detractor) to **+100** (everyone is a promoter)
-- A score above 0 is generally considered acceptable; above 50 is considered excellent; above 70 is world-class (varies significantly by industry)
+- The formula is: **NPS = percentage of Promoters minus percentage of Detractors**
+- **Promoters** are customers who scored 9 or 10 — they're loyal and likely to recommend you to others.
+- **Passives** are customers who scored 7 or 8 — satisfied, but not excited enough to actively recommend you. They're counted in the total number of responses, but not in the final math.
+- **Detractors** are customers who scored 0 through 6 — unhappy, and at risk of leaving or saying negative things about you.
+- The score can range from **-100** (every single customer is a Detractor) to **+100** (every single customer is a Promoter).
+- As a general guide: above 0 is acceptable, above 50 is excellent, and above 70 is considered outstanding — though this depends a lot on your industry.
 
-## How to calculate NPS — step by step
+## How to calculate NPS, step by step
 
-1. **Survey customers** with the single question: "How likely are you to recommend [product] to a friend or colleague?" on a 0-10 scale.
-2. **Bucket every response:** 9-10 = Promoter, 7-8 = Passive, 0-6 = Detractor.
-3. **Calculate the percentage of Promoters** out of all respondents.
-4. **Calculate the percentage of Detractors** out of all respondents.
-5. **Subtract:** NPS = %Promoters − %Detractors. Passives are counted in the total respondent base but don't appear in the final subtraction.
+1. **Ask customers one question:** "How likely are you to recommend [your product] to a friend or colleague?" using a 0-to-10 scale.
+2. **Sort every answer into one of three groups:** a score of 9 or 10 is a Promoter, 7 or 8 is a Passive, and 0 through 6 is a Detractor.
+3. **Work out what percentage of all responses were Promoters.**
+4. **Work out what percentage of all responses were Detractors.**
+5. **Subtract the second number from the first:** NPS = % Promoters minus % Detractors. Passives are part of your total number of responses, but they don't appear anywhere in the final subtraction.
 
-## Worked example
+## A worked example
 
-A product surveys 200 customers:
-- 110 respondents score 9-10 → Promoters = 110/200 = **55%**
-- 50 respondents score 7-8 → Passives = 50/200 = 25% (not used in the formula)
-- 40 respondents score 0-6 → Detractors = 40/200 = **20%**
+Say a company surveys 200 of its customers with the NPS question:
+- 110 people answer with a 9 or 10, so Promoters = 110 out of 200, which is **55%**
+- 50 people answer with a 7 or 8, so Passives = 50 out of 200, which is 25% (this number isn't used in the final formula)
+- 40 people answer with a 0 through 6, so Detractors = 40 out of 200, which is **20%**
 
-**NPS = 55% − 20% = 35**
+**NPS = 55% minus 20% = 35**
 
-A score of 35 is generally considered good, though "good" is relative to your industry — B2B SaaS benchmarks differ from consumer retail benchmarks, so compare your score to your own history and close competitors, not a universal number.
+A score of 35 is generally considered good — but "good" really depends on your industry. A software company and a retail store have very different typical scores, so it's usually more useful to compare your own score against your past scores and your closest competitors, rather than against one universal number.
 
 ## NPS vs CSAT vs CES
 
 | | NPS | CSAT | CES |
 |---|---|---|---|
-| Question | "How likely to recommend?" | "How satisfied were you?" | "How easy was it to resolve X?" |
-| Measures | Long-term loyalty | Satisfaction with a specific interaction | Effort required to get something done |
-| Timing | Periodic (quarterly/relationship-level) | Right after a transaction/interaction | Right after a support/service interaction |
-| Best for | Overall brand/product health tracking | Point-in-time experience quality | Support and service-desk quality |
+| The question asked | "How likely are you to recommend us?" | "How satisfied were you?" | "How easy was it to get this resolved?" |
+| What it measures | Long-term loyalty to the brand or product | Satisfaction with one specific moment or interaction | How much effort it took to get something done |
+| When you ask it | Occasionally, like once a quarter, for an overall check-in | Right after a specific interaction, like a purchase | Right after a support or service interaction |
+| What it's best for | Tracking overall brand or product health over time | Checking the quality of one specific experience | Checking how easy your support process is |
 
-Full comparison: [NPS vs CSAT vs CES](/product-metrics/what-is-csat-vs-nps-vs-ces).
+See the full comparison here: [NPS vs CSAT vs CES](/product-metrics/what-is-csat-vs-nps-vs-ces).
 
-## Why NPS alone isn't enough
+## Why NPS on its own isn't enough
 
-NPS is a lagging, single-number signal — it tells you loyalty moved, not why. The score is only useful paired with the open-ended follow-up question ("What's the main reason for your score?"), which is where the actionable signal actually lives. Treat NPS as a [leading vs lagging indicator](/product-metrics/leading-vs-lagging-indicators-in-product-management) health check, not a diagnostic tool on its own — pair it with [retention/churn data](/product-metrics/what-is-retention-rate-vs-churn-rate) and qualitative [user interviews](/product-discovery/how-to-conduct-effective-user-interviews) for the "why."
+NPS only tells you that loyalty went up or down — it doesn't tell you *why*. The real value comes from the follow-up question that should always come right after the score: "What's the main reason for your answer?" That open-ended answer is where the useful, actionable information actually lives. It's best to treat NPS as one signal of overall health, not a full diagnosis — pair it with [retention and churn data](/product-metrics/what-is-retention-rate-vs-churn-rate) and direct conversations with customers, like [user interviews](/product-discovery/how-to-conduct-effective-user-interviews), to understand the full picture.
 
 ## FAQ
 
-**What's considered a good NPS score?**
-Above 0 is acceptable, above 30 is good, above 50 is excellent, and above 70 is considered world-class — but benchmarks vary widely by industry, so track your own trend over time rather than chasing a universal number.
+**What counts as a good NPS score?**
+As a rough guide: above 0 is acceptable, above 30 is good, above 50 is excellent, and above 70 is considered outstanding. But these numbers vary a lot by industry, so it's usually more useful to track how your own score changes over time than to compare it to one fixed target.
 
-**Why don't Passives count in the NPS formula?**
-Passives are satisfied but not actively promoting or detracting from the brand — including them would dilute the signal the score is designed to capture: net loyalty intensity, not average satisfaction.
+**Why aren't Passives included in the NPS formula?**
+Passives are satisfied, but they're not actively promoting or criticizing your product to others. Including them in the main calculation would blur the number NPS is designed to show — the net strength of loyalty, not average satisfaction.
 
-**How often should you measure NPS?**
-Relationship NPS (overall brand loyalty) is typically measured quarterly or twice a year; transactional NPS (after a specific interaction) can be measured continuously, but the two shouldn't be blended into one number.
+**How often should a company measure NPS?**
+Overall relationship NPS — the general "how loyal are our customers" check-in — is usually measured every few months or twice a year. NPS tied to one specific interaction can be measured continuously, but the two shouldn't be mixed together into a single score.
 
-**Can NPS predict churn?**
-Detractor scores correlate with higher churn risk in many products, but NPS should be paired with actual usage and retention data — a customer can score low on NPS and still not churn, or vice versa.
+**Can NPS predict whether a customer will cancel?**
+Customers who give a low, "Detractor" score are more likely to cancel, but NPS shouldn't be the only signal you rely on — it works best alongside actual usage and retention data, since a customer can give a low score and still stick around, or the reverse.

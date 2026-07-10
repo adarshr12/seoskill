@@ -10,62 +10,64 @@ target_word_count: 1300-1700
 schema: [Article, FAQPage, Table]
 last_updated: 2026-07-10
 author: "Adarsh Rajoria — Product & Business Analysis Writer"
+style: plain-language
 ---
 
 # What Is Product Positioning?
 
-**Product positioning** is the strategic decision about how your product is understood, relative to specific alternatives, by a specific customer segment — it defines what problem you solve best, for whom, and why they should pick you over what they'd otherwise use. Positioning isn't a tagline or a slogan; it's the underlying strategic decision that taglines, landing pages, and sales pitches all get written from.
+Product positioning is the decision about how you want a specific group of customers to see your product, compared to whatever else they might use instead. It answers three questions: what problem do you solve better than anyone else, who exactly is that true for, and why should that person pick you over the alternative they'd otherwise use? Positioning is not the same as a tagline or a catchy slogan. It's the underlying strategic decision that a tagline, a landing page, or a sales pitch all get written from, once that decision has already been made.
 
 ## Quick facts
 
-- Positioning answers: **for whom, competing against what, are we the best choice, and why**
-- It's a strategic input, not a marketing output — messaging and taglines are downstream of positioning, not the same thing
-- The most widely used modern framework is April Dunford's 5-component method (competitive alternatives → unique attributes → value → target segment → market category)
-- Bad positioning is usually invisible internally and only shows up as confused prospects or a sales team improvising a different pitch every deal
-- Closely related to, but distinct from, the [Value Proposition Canvas](/product-frameworks/value-proposition-canvas) and [Business Model Canvas](/product-frameworks/business-model-canvas-explained)
+- Positioning answers: **who is this for, what would they use instead, and why are we the best choice for them?**
+- It's a strategic decision that comes *before* marketing writing, not the marketing writing itself.
+- The most widely used modern framework comes from a book called *Obviously Awesome*, by April Dunford, and has five parts: competitive alternatives, unique strengths, the value those strengths create, the target customer, and the market category.
+- A sign of bad positioning: your own sales team pitches the product differently in every single conversation, because there's no shared, agreed answer to "who is this really for, and why us."
+- Positioning is closely related to, but different from, the [Value Proposition Canvas](/product-frameworks/value-proposition-canvas) and the [Business Model Canvas](/product-frameworks/business-model-canvas-explained).
 
-## The 5-component positioning framework
+## The five-part positioning framework
 
-| Component | Question it answers |
+| Part | The question it answers |
 |---|---|
-| **1. Competitive alternatives** | What would customers use if your product didn't exist? (Often not a direct competitor — sometimes it's a spreadsheet or "doing nothing.") |
-| **2. Unique attributes** | What do you have that alternatives don't? |
-| **3. Value** | What does that uniqueness actually let the customer do or achieve? |
-| **4. Target market segment** | Which customers care most about that value — where you win, not everyone you could theoretically sell to |
-| **5. Market category** | What frame of reference makes your value obvious to that segment? ("project management tool" vs "AI work assistant" sets very different expectations) |
+| **1. Competitive alternatives** | What would your customers use if your product didn't exist? This is often not a direct competitor — sometimes the honest answer is "a spreadsheet," or even "nothing at all." |
+| **2. Unique strengths** | What do you have that those alternatives don't? |
+| **3. Value** | What does that strength actually let the customer do, or achieve, that matters to them? |
+| **4. Target customer** | Which group of customers cares most about that value? This should be a specific group you can clearly win with — not simply "everyone who could theoretically buy this." |
+| **5. Market category** | What existing, familiar idea should customers compare you to, so your value is obvious right away? Calling something a "project management tool" sets very different expectations than calling it an "AI work assistant," even if the product is similar. |
 
-## Fill-in positioning statement template
+## A template you can fill in yourself
 
 ```
-For [target segment], who currently use [competitive alternative],
-[product name] is a [market category] that [key unique value],
-unlike [main alternative], we [key differentiator].
+For [target customer], who currently use [the alternative they use today],
+[your product name] is a [market category] that [the key value you deliver],
+unlike [the main alternative], we [what makes you different].
 ```
 
-**Worked example** for a fictional invoicing tool, Ledgerly:
-> For small B2B service businesses who currently manage invoicing in spreadsheets or generic accounting software, Ledgerly is a purpose-built invoicing platform that gets B2B invoices paid 40% faster through automated follow-ups — unlike generic accounting suites, we're built only for invoicing, so setup takes 10 minutes, not a full onboarding project.
+**A worked example**, using a made-up invoicing tool called Ledgerly, the same example company used elsewhere on this site:
 
-## Why positioning gets confused with messaging
+> For small B2B service businesses who currently manage invoicing using spreadsheets or general-purpose accounting software, Ledgerly is a purpose-built invoicing platform that gets invoices paid 40% faster through automatic follow-up reminders. Unlike general accounting software, Ledgerly is built only for invoicing, so setup takes 10 minutes instead of a full onboarding project.
 
-Messaging is the specific words on your landing page, in your sales deck, in an ad. Positioning is the strategic decision those words are supposed to express. Teams that skip positioning and jump straight to messaging end up with taglines that sound nice but don't survive a follow-up question — "best-in-class," "all-in-one platform," "powered by AI" are messaging without positioning underneath them, which is why they're interchangeable across thousands of unrelated products.
+## Why positioning and messaging get confused
 
-## When to redo your positioning
+Messaging is the specific wording you use — the words on your landing page, in your sales deck, or in an ad. Positioning is the strategic decision that those words are supposed to express. Teams that skip positioning and jump straight to writing messaging tend to end up with phrases that sound nice but fall apart the moment someone asks a follow-up question. Phrases like "best-in-class," "all-in-one platform," and "powered by AI" are messaging with no real positioning behind them — which is exactly why you can find those same three phrases on thousands of completely unrelated products.
 
-- You've expanded into a new customer segment that cares about different things than your original users
-- A new competitive alternative has entered (including "do nothing" becoming a viable alternative due to a market shift)
-- Sales reps are all pitching the product differently because there's no shared strategic answer to "who is this for and why us"
-- You're repositioning after a pivot or a significant new feature that changes what "best alternative" you're really competing against
+## When you should redo your positioning
+
+- You've expanded into a new group of customers who care about different things than your original customers did.
+- A new alternative has shown up in the market — including customers deciding that "doing nothing" is now a real option, because something has shifted.
+- Your sales team is pitching the product differently every time, because there's no shared, strategic answer to "who is this for, and why choose us."
+- You've changed direction as a company, or shipped a major new feature that changes who your real competition actually is now.
 
 ## FAQ
 
-**Who created the modern product positioning framework?**
-The 5-component framework widely used in product and product marketing today comes from April Dunford's book *Obviously Awesome*, building on earlier positioning theory from Al Ries and Jack Trout's classic marketing work.
+**Who created the positioning framework used most today?**
+The five-part framework widely used in product and marketing teams today comes from April Dunford's book *Obviously Awesome*. It builds on older positioning ideas first written about by Al Ries and Jack Trout.
 
-**Is positioning the job of product management or product marketing?**
-Both are involved — product management typically owns the underlying strategic understanding of the customer and competitive alternatives, while [product marketing](/product-management/what-does-a-product-marketing-manager-do) typically owns turning that positioning into external messaging. In smaller companies, one person often does both.
+**Is positioning the job of product management, or product marketing?**
+Usually both are involved. Product management typically owns the underlying understanding of the customer and the real competitive alternatives. [Product marketing](/product-management/what-does-a-product-marketing-manager-do) typically owns turning that positioning into the actual words customers see. At a smaller company, one person often handles both.
 
 **How is positioning different from a value proposition?**
-A value proposition focuses specifically on the value/benefit delivered to the customer; positioning is broader — it also defines the competitive alternative you're measured against and the market category that frames how customers interpret you.
+A value proposition focuses specifically on the benefit you deliver to the customer. Positioning is broader — it also defines exactly what alternative you're being compared to, and what market category shapes how customers understand you in the first place.
 
-**Do B2C products need formal positioning too?**
-Yes — the framework applies to any product with a choice of alternatives and a target customer, though B2C positioning statements often lean more on emotional/lifestyle differentiation than the feature-based differentiation common in B2B.
+**Do consumer products need formal positioning too, or is this only for business software?**
+Yes, any product with a real choice of alternatives and a specific target customer benefits from this framework — though consumer positioning often leans more on emotional or lifestyle differences, while business-to-business positioning usually leans more on specific, practical differences.
