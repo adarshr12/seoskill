@@ -145,8 +145,20 @@ Update this table as each batch is written, so future sessions don't duplicate w
 | 44 | Bullseye framework for growth channels | [bullseye-framework-for-growth-channels.md](../content/articles/bullseye-framework-for-growth-channels.md) | Published |
 | 45 | Product-market fit frameworks compared | [product-market-fit-frameworks-compared.md](../content/articles/product-market-fit-frameworks-compared.md) | Published |
 | 47 | What is LTV:CAC ratio and what's a good one | [what-is-ltv-cac-ratio-and-whats-a-good-one.md](../content/articles/what-is-ltv-cac-ratio-and-whats-a-good-one.md) | Published |
+| 50 | What is DAU/MAU ratio and why it matters | [what-is-dau-mau-ratio-and-why-it-matters.md](../content/articles/what-is-dau-mau-ratio-and-why-it-matters.md) | Published |
+| 51 | What is activation rate in product analytics | [what-is-activation-rate-in-product-analytics.md](../content/articles/what-is-activation-rate-in-product-analytics.md) | Published |
+| 52 | What is retention rate vs churn rate | [what-is-retention-rate-vs-churn-rate.md](../content/articles/what-is-retention-rate-vs-churn-rate.md) | Published |
+| 55 | Product qualified leads (PQL) explained | [product-qualified-leads-explained.md](../content/articles/product-qualified-leads-explained.md) | Published |
+| 57 | What is CSAT vs NPS vs CES | [what-is-csat-vs-nps-vs-ces.md](../content/articles/what-is-csat-vs-nps-vs-ces.md) | Published |
+| 58 | Feature adoption rate — how to measure it | [feature-adoption-rate-how-to-measure-it.md](../content/articles/feature-adoption-rate-how-to-measure-it.md) | Published |
+| 59 | What is stickiness ratio in product metrics | [what-is-stickiness-ratio-in-product-metrics.md](../content/articles/what-is-stickiness-ratio-in-product-metrics.md) | Published |
+| 60 | How to define a North Star metric for your product | [how-to-define-a-north-star-metric-for-your-product.md](../content/articles/how-to-define-a-north-star-metric-for-your-product.md) | Published |
+| 61 | Leading vs lagging indicators in product management | [leading-vs-lagging-indicators-in-product-management.md](../content/articles/leading-vs-lagging-indicators-in-product-management.md) | Published |
+| 62 | What is a vanity metric vs actionable metric | [what-is-a-vanity-metric-vs-actionable-metric.md](../content/articles/what-is-a-vanity-metric-vs-actionable-metric.md) | Published |
+| 63 | How to build a product metrics dashboard | [how-to-build-a-product-metrics-dashboard.md](../content/articles/how-to-build-a-product-metrics-dashboard.md) | Published |
+| 65 | Revenue per user (ARPU) explained | [revenue-per-user-explained.md](../content/articles/revenue-per-user-explained.md) | Published |
 
-**107 of 297 topics published.** All of Frameworks & Methodologies cluster is now complete. Working through remaining P2 clusters next.
+**119 of 297 topics published.** Metrics & Analytics cluster is now fully complete (20/20). Working through remaining P2 clusters next.
 
 ### Two ways to get this content live
 
