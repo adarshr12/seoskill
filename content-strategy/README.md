@@ -331,7 +331,18 @@ Update this table as each batch is written, so future sessions don't duplicate w
 | 218 | What is a dependency map in Agile planning | [what-is-a-dependency-map-in-agile-planning.md](../content/articles/what-is-a-dependency-map-in-agile-planning.md) | Published |
 | 267 | How to build executive presence as a PM | [how-to-build-executive-presence-as-a-pm.md](../content/articles/how-to-build-executive-presence-as-a-pm.md) | Published |
 
-**287 of 297 topics published.** Certifications, Agile Terminology Deep-Dive, User Research & Discovery, Product-Led Growth, and Business Analysis Specific clusters now fully complete. Only 10 topics remain (Career Growth & Excellence x3, SAFe Deep-Dive x7).
+| 268 | Books every product manager should read | [books-every-product-manager-should-read.md](../content/articles/books-every-product-manager-should-read.md) | Published |
+| 269 | Podcasts every product manager should follow | [podcasts-every-product-manager-should-follow.md](../content/articles/podcasts-every-product-manager-should-follow.md) | Published |
+| 270 | How to build a personal brand as a product manager | [how-to-build-a-personal-brand-as-a-product-manager.md](../content/articles/how-to-build-a-personal-brand-as-a-product-manager.md) | Published |
+| 280 | What is a System Demo in SAFe | [what-is-a-system-demo-in-safe.md](../content/articles/what-is-a-system-demo-in-safe.md) | Published |
+| 281 | What is an Inspect and Adapt (I&A) event in SAFe | [what-is-an-inspect-and-adapt-event-in-safe.md](../content/articles/what-is-an-inspect-and-adapt-event-in-safe.md) | Published |
+| 282 | What is a Solution Train in SAFe | [what-is-a-solution-train-in-safe.md](../content/articles/what-is-a-solution-train-in-safe.md) | Published |
+| 283 | What is a Value Stream in SAFe | [what-is-a-value-stream-in-safe.md](../content/articles/what-is-a-value-stream-in-safe.md) | Published |
+| 285 | Team backlog vs Program backlog vs Solution backlog in SAFe | [team-backlog-vs-program-backlog-vs-solution-backlog-in-safe.md](../content/articles/team-backlog-vs-program-backlog-vs-solution-backlog-in-safe.md) | Published |
+| 287 | What is an Epic Owner in SAFe | [what-is-an-epic-owner-in-safe.md](../content/articles/what-is-an-epic-owner-in-safe.md) | Published |
+| 293 | What is the Continuous Delivery Pipeline in SAFe | [what-is-the-continuous-delivery-pipeline-in-safe.md](../content/articles/what-is-the-continuous-delivery-pipeline-in-safe.md) | Published |
+
+**297 of 297 topics published. The full content calendar is complete.** Every cluster — Frameworks & Methodologies, Metrics & Analytics, User Research & Discovery, Roadmapping & Prioritization, Product-Led Growth & Growth Strategies, User Stories & Requirements Writing, Business Analysis Specific, Product Owner / Scrum / Agile, Project Management Specific, Certifications, Interview Prep & Career, Agile Terminology Deep-Dive, Estimation & Guesstimates, Requirement Gathering & Documentation, AI for Product Managers, Career Growth & Excellence, and SAFe (Scaled Agile Framework) Deep-Dive — is now fully published.
 
 ### Two ways to get this content live
 
