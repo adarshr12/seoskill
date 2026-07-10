@@ -241,8 +241,20 @@ Update this table as each batch is written, so future sessions don't duplicate w
 | 185 | Certifications that actually help you get hired as a PM | [certifications-that-actually-help-you-get-hired-as-a-pm.md](../content/articles/certifications-that-actually-help-you-get-hired-as-a-pm.md) | Published |
 | 187 | How to answer "tell me about a time you failed" (PM version) | [how-to-answer-tell-me-about-a-time-you-failed.md](../content/articles/how-to-answer-tell-me-about-a-time-you-failed.md) | Published |
 | 189 | How to answer a case study interview question | [how-to-answer-a-case-study-interview-question.md](../content/articles/how-to-answer-a-case-study-interview-question.md) | Published |
+| 190 | Estimation questions in PM interviews (how to approach) | [estimation-questions-in-pm-interviews.md](../content/articles/estimation-questions-in-pm-interviews.md) | Published |
+| 191 | How to answer "design a product for X" questions | [how-to-answer-design-a-product-for-x-questions.md](../content/articles/how-to-answer-design-a-product-for-x-questions.md) | Published |
+| 192 | Behavioral interview questions for product managers | [behavioral-interview-questions-for-product-managers.md](../content/articles/behavioral-interview-questions-for-product-managers.md) | Published |
+| 193 | How to answer "why do you want to be a PM" | [how-to-answer-why-do-you-want-to-be-a-pm.md](../content/articles/how-to-answer-why-do-you-want-to-be-a-pm.md) | Published |
+| 194 | Technical interview questions for PMs (non-technical background) | [technical-interview-questions-for-pms.md](../content/articles/technical-interview-questions-for-pms.md) | Published |
+| 195 | Fintech product manager interview questions | [fintech-product-manager-interview-questions.md](../content/articles/fintech-product-manager-interview-questions.md) | Published |
+| 198 | How to switch from analyst to product manager | [how-to-switch-from-analyst-to-product-manager.md](../content/articles/how-to-switch-from-analyst-to-product-manager.md) | Published |
+| 199 | How to build a PM portfolio with no experience | [how-to-build-a-pm-portfolio-with-no-experience.md](../content/articles/how-to-build-a-pm-portfolio-with-no-experience.md) | Published |
+| 200 | Common resume mistakes product managers make | [common-resume-mistakes-product-managers-make.md](../content/articles/common-resume-mistakes-product-managers-make.md) | Published |
+| 202 | Mock interview practice for product managers — how to prepare | [mock-interview-practice-for-product-managers-how-to-prepare.md](../content/articles/mock-interview-practice-for-product-managers-how-to-prepare.md) | Published |
+| 204 | First 90 days as a new product manager — what to focus on | [first-90-days-as-a-new-product-manager-what-to-focus-on.md](../content/articles/first-90-days-as-a-new-product-manager-what-to-focus-on.md) | Published |
+| 205 | How to prepare for a PM interview in one week | [how-to-prepare-for-a-pm-interview-in-one-week.md](../content/articles/how-to-prepare-for-a-pm-interview-in-one-week.md) | Published |
 
-**203 of 297 topics published.** Project Management Specific cluster is now fully complete. Certifications and Interview Prep & Career clusters underway. Working through remaining P2 clusters next.
+**215 of 297 topics published.** Interview Prep & Career cluster is now fully complete. Certifications cluster (4 topics) and remaining P2/P3 topics next.
 
 ### Two ways to get this content live
 
