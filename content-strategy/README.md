@@ -73,8 +73,20 @@ Update this table as each batch is written, so future sessions don't duplicate w
 | 19 | Product manager vs business analyst — key differences | [product-manager-vs-business-analyst-key-differences.md](../content/articles/product-manager-vs-business-analyst-key-differences.md) | Published |
 | 24 | Jobs to be Done (JTBD) framework | [jobs-to-be-done-framework.md](../content/articles/jobs-to-be-done-framework.md) | Published |
 | 27 | OKRs vs KPIs — what's the difference | [okrs-vs-kpis-whats-the-difference.md](../content/articles/okrs-vs-kpis-whats-the-difference.md) | Published |
+| 49 | What is MRR and ARR | [what-is-mrr-and-arr.md](../content/articles/what-is-mrr-and-arr.md) | Published |
+| 53 | Cohort analysis explained for beginners | [cohort-analysis-explained-for-beginners.md](../content/articles/cohort-analysis-explained-for-beginners.md) | Published |
+| 54 | What is a funnel conversion rate | [what-is-a-funnel-conversion-rate.md](../content/articles/what-is-a-funnel-conversion-rate.md) | Published |
+| 64 | What is time to value (TTV) | [what-is-time-to-value.md](../content/articles/what-is-time-to-value.md) | Published |
+| 66 | How to conduct effective user interviews | [how-to-conduct-effective-user-interviews.md](../content/articles/how-to-conduct-effective-user-interviews.md) | Published |
+| 68 | How to validate a product idea before building | [how-to-validate-a-product-idea-before-building.md](../content/articles/how-to-validate-a-product-idea-before-building.md) | Published |
+| 73 | Jobs to be Done interview technique | [jobs-to-be-done-interview-technique.md](../content/articles/jobs-to-be-done-interview-technique.md) | Published |
+| 81 | How to build a product roadmap | [how-to-build-a-product-roadmap.md](../content/articles/how-to-build-a-product-roadmap.md) | Published |
+| 94 | What is content-led growth | [what-is-content-led-growth.md](../content/articles/what-is-content-led-growth.md) | Published |
+| 97 | Freemium vs free trial — which model to choose | [freemium-vs-free-trial-which-model-to-choose.md](../content/articles/freemium-vs-free-trial-which-model-to-choose.md) | Published |
+| 117 | How to write a PRD (product requirements document) | [how-to-write-a-prd.md](../content/articles/how-to-write-a-prd.md) | Published |
+| 122 | Business analyst vs product manager — overlap and differences | [business-analyst-vs-product-manager-overlap-and-differences.md](../content/articles/business-analyst-vs-product-manager-overlap-and-differences.md) | Published |
 
-**35 of 297 topics published.** Everything else in the CSV is still open — work top-down by `priority`, P1 first. Remaining P1 topics are the next logical batch; run `python3 supabase/scripts/md_to_seed.py` after any new batch to regenerate the Supabase seed automatically — it's driven entirely by what's in `content/articles/`, so no manual bookkeeping is needed there.
+**47 of 297 topics published.** Everything else in the CSV is still open — work top-down by `priority`, P1 first. Remaining P1 topics are the next logical batch; run `python3 supabase/scripts/md_to_seed.py` after any new batch to regenerate the Supabase seed automatically — it's driven entirely by what's in `content/articles/`, so no manual bookkeeping is needed there.
 
 ### Writing style: plain-language guide applied to every article (2026-07-10)
 
