@@ -61,6 +61,17 @@ Product management doesn't work alone. It connects closely to a few other roles:
 - **Business analysis** studies how a business currently works and documents exactly what's needed for a change — often feeding directly into a product manager's strategy at larger companies. See [What Does a Business Analyst Do](/business-analyst/what-does-a-business-analyst-do).
 - **Project management** takes over once the "what and why" is decided, and manages the schedule, budget, and risk of actually delivering it. See [What Does a Project Manager Do](/project-management/what-does-a-project-manager-do).
 
+## Common mistakes companies make with product management
+
+- **Hiring a product manager but not giving them real decision-making power.** If every decision still needs sign-off from a founder or a senior engineer, the company doesn't actually have product management yet — it has someone with a product manager job title, which isn't the same thing.
+- **Measuring product managers by how many features shipped, not by results.** This quietly pushes the whole team toward building more instead of building the right thing, since "more features" is easy to count and "the right features" is not.
+- **Skipping discovery and going straight to building.** A roadmap built entirely from internal opinions and a handful of loud customer requests, with no real user research behind it, tends to produce a product nobody asked for.
+- **Treating the roadmap as a fixed promise instead of a current best guess.** A roadmap should update as the team learns more. Teams that never revise their roadmap are usually ignoring new evidence to avoid an uncomfortable conversation with stakeholders.
+
+## How to tell if product management is working well at a company
+
+A simple test: ask a product manager why something is on this quarter's roadmap. If they can explain it in terms of a specific customer problem and a specific business goal, in under a minute, product management is probably working. If the honest answer is "a senior stakeholder asked for it" or "we've always built this kind of thing," that's a sign decisions are still being made by opinion and authority rather than by evidence — the exact problem product management as a discipline was created to solve.
+
 ## FAQ
 
 **Do you need to know how to code to work in product management?**
@@ -71,3 +82,9 @@ Product development is the actual process of engineers building the product. Pro
 
 **Does every company need a dedicated product manager?**
 Not always. In very small or early-stage companies, the founder often plays this role themselves. Companies usually hire a dedicated product manager once they have more than one product, or more than one engineering team, and someone needs to decide what each team should focus on.
+
+**How is product management different from being a "product owner"?**
+The two roles overlap but sit at different altitudes. A product manager typically owns the bigger, longer-term strategy, sometimes across several teams. A product owner usually focuses on turning that strategy into a clear, ready-to-build list of tasks for one specific team. See [What Is a Product Owner](/agile-scrum-safe/what-is-a-product-owner) for the full breakdown.
+
+**What background do most product managers actually come from?**
+There's no single required background. Common paths into product management include engineering, business analysis, consulting, design, and customer support — what matters more than your starting point is being able to combine evidence, judgment, and clear communication to make good "what to build" decisions.

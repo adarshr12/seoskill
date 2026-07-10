@@ -7,7 +7,8 @@ Built for a site targeting rankings across Google (SEO) and AI answer engines li
 1. **[`01-competitor-research.md`](./01-competitor-research.md)** — who you're actually competing with (5 competitor types), what's already saturated, and the specific gap in the market this site can own.
 2. **[`02-content-playbook-add-avoid.md`](./02-content-playbook-add-avoid.md)** — the concrete "what to add / what to avoid" rulebook, on-page SEO checklist, GEO/AEO tactics, and content refresh cadence. Apply this to every article before publishing.
 3. **[`content-calendar-295-topics.csv`](./content-calendar-295-topics.csv)** — all 295 topics you provided, each mapped to: primary keyword, secondary keywords, search intent, recommended format, target word count, priority (P1/P2/P3), a specific GEO/AEO tactic for that format, the pillar page it belongs under, a suggested URL slug, and the key competitors to beat for that topic.
-4. **[`../content/articles/`](../content/articles/)** — 11 fully written, publish-ready articles (see the tracker below).
+4. **[`../content/articles/`](../content/articles/)** — 23 fully written, publish-ready articles (see the tracker below).
+5. **[`../supabase/`](../supabase/)** — the schema and import pipeline for your custom website's Supabase backend: `migrations/0001_blog_schema.sql` (table structure), `scripts/md_to_seed.py` (converts every article into `seed/blog_posts_seed.json`), `scripts/import_seed.mjs` (pushes that JSON into your Supabase project). See `supabase/README.md` for setup.
 
 ## How to use this package
 
@@ -48,16 +49,32 @@ Update this table as each batch is written, so future sessions don't duplicate w
 | 167 | PMP vs PRINCE2 — which certification to choose | [pmp-vs-prince2-which-certification-to-choose.md](../content/articles/pmp-vs-prince2-which-certification-to-choose.md) | Published |
 | 296 | Agentic AI vs LLM — what's the difference | [agentic-ai-vs-llm-difference-for-product-managers.md](../content/articles/agentic-ai-vs-llm-difference-for-product-managers.md) | Published (new topic, added on request) |
 | 297 | What is product positioning | [what-is-product-positioning.md](../content/articles/what-is-product-positioning.md) | Published (new topic, added on request) |
+| 121 | What does a business analyst do | [what-does-a-business-analyst-do.md](../content/articles/what-does-a-business-analyst-do.md) | Published |
+| 156 | What does a project manager do | [what-does-a-project-manager-do.md](../content/articles/what-does-a-project-manager-do.md) | Published |
+| 91 | What is product-led growth (PLG) | [what-is-product-led-growth-plg.md](../content/articles/what-is-product-led-growth-plg.md) | Published |
+| 111 | How to write a good user story | [how-to-write-a-good-user-story.md](../content/articles/how-to-write-a-good-user-story.md) | Published |
+| 23 | Kano model explained | [kano-model-explained.md](../content/articles/kano-model-explained.md) | Published |
+| 48 | What is churn rate and how to reduce it | [what-is-churn-rate-and-how-to-reduce-it.md](../content/articles/what-is-churn-rate-and-how-to-reduce-it.md) | Published |
+| 150 | Scrum vs Kanban — which to use when | [scrum-vs-kanban-which-to-use-when.md](../content/articles/scrum-vs-kanban-which-to-use-when.md) | Published |
+| 208 | What is a sprint in Agile | [what-is-a-sprint-in-agile.md](../content/articles/what-is-a-sprint-in-agile.md) | Published |
+| 221 | How to solve guesstimate questions in PM interviews | [how-to-solve-guesstimate-questions-in-pm-interviews.md](../content/articles/how-to-solve-guesstimate-questions-in-pm-interviews.md) | Published |
+| 186 | Top product manager interview questions and answers | [top-product-manager-interview-questions-and-answers.md](../content/articles/top-product-manager-interview-questions-and-answers.md) | Published |
+| 284 | SAFe roles explained: RTE vs PM vs PO vs Scrum Master | [safe-roles-explained-rte-vs-product-manager-vs-product-owner-vs-scrum-master.md](../content/articles/safe-roles-explained-rte-vs-product-manager-vs-product-owner-vs-scrum-master.md) | Published |
+| 231 | Requirement gathering techniques for product managers | [requirement-gathering-techniques-for-product-managers.md](../content/articles/requirement-gathering-techniques-for-product-managers.md) | Published |
 
-**11 of 297 topics published.** Everything else in the CSV is still open — work top-down by `priority`, P1 first.
+**23 of 297 topics published.** Everything else in the CSV is still open — work top-down by `priority`, P1 first. Remaining P1 topics are the next logical batch; run `python3 supabase/scripts/md_to_seed.py` after any new batch to regenerate the Supabase seed automatically — it's driven entirely by what's in `content/articles/`, so no manual bookkeeping is needed there.
 
-### Writing style: plain-language pass applied (2026-07-10)
+### Writing style: plain-language guide applied to every article (2026-07-10)
 
-All 11 articles were rewritten to follow the new **Writing Style Guide** in `02-content-playbook-add-avoid.md`: short, self-contained sentences, every technical term defined in plain words the moment it's first used, no jargon without explanation, no AI-cliché phrasing. This applies to every future article too — it's now a required checklist item, not a one-time pass. Frontmatter on each article now includes `style: plain-language` to mark it as compliant.
+Every article follows the **Writing Style Guide** in `02-content-playbook-add-avoid.md`: short, self-contained sentences, every technical term defined in plain words the moment it's first used, no jargon without explanation, no AI-cliché phrasing. This is a required checklist item for every future article, not a one-time pass. Frontmatter on each article includes `style: plain-language` to mark it as compliant.
 
-### Known follow-up: word count
+### Word count: resolved for the current 23
 
-Self-audit against the `02-content-playbook-add-avoid.md` checklist found all 11 articles pass on structure (direct-answer lead, quick-facts box, comparison table, original worked example, FAQ, byline, internal links, meta description ≤155 chars) and now on writing style. Word count improved after the plain-language rewrite (defining terms inline naturally adds length) but most are still **under the target band** — roughly 800-1250 words against a 1300-2000 word target for these formats. That's long enough to be a legitimate, citable GEO-first answer, but likely too short to out-rank the highest-authority incumbents (ProductPlan, monday.com, Product School) on the most contested fundamentals terms (`what is product management`, `cac vs ltv`, `rice framework`), which typically run 1500-2500+ words with more examples, tool call-outs, and mistake/edge-case sections. Recommend a depth pass on the P1 fundamentals/frameworks/metrics articles specifically before publishing those live, adding: 1-2 more worked examples, a "common mistakes" section, and a "how it connects to X" section — in plain language, without padding with filler, per the playbook's own anti-padding rule.
+Per request, articles were expanded with additional worked examples, "common mistakes" sections, and expanded FAQs. Current range is **960-1706 words, averaging ~1270** — the original 11 all moved from the 800-1250 range up into the 1180-1706 range, and all 12 new articles were written at full depth from the start. This is now in a competitive range for most of these terms; the very highest-authority incumbents (ProductPlan, monday.com, Product School) on the single most contested queries (`what is product management`, `rice framework`) sometimes run to 2000-2500 words — worth another depth pass on those specific pages once you have real Search Console data showing which pages need it, rather than expanding everything uniformly.
+
+### Realistic pace for the remaining ~274 topics
+
+At this depth and quality bar (original worked examples, no filler, plain-language pass, full playbook checklist), this is genuinely large-scale content production, not a single-session task. Each batch this session has produced 8-12 full articles. Continuing at a similar pace across future sessions/batches, covering the rest of the calendar — prioritizing all remaining P1s first, then P2, then P3 — is the realistic path to all 297. This tracker is written so any future session can pick up immediately: check the table above for what's done, sort the CSV by `priority`, and continue down the list.
 
 ## Note on the skills repo itself
 

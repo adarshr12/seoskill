@@ -60,6 +60,18 @@ MoSCoW tends to fail when a team marks almost everything as "Must have," because
 
 Many teams actually use both together: MoSCoW to draw the line around what's in this release, and then RICE to decide the order of everything that falls inside "Should have" and "Could have."
 
+## How to run a MoSCoW workshop, step by step
+
+1. **Gather the full list of candidate features or requirements** before the session starts, so the group isn't creating the list and sorting it at the same time.
+2. **Explain the four categories clearly at the start**, especially the difference between "Must" and "Should" — this is where most disagreements happen, so it's worth spending a few minutes making sure everyone in the room means the same thing by each word.
+3. **Go through the list one item at a time**, and have the group agree on a category out loud, rather than voting silently — the discussion is often more valuable than the label itself, because it surfaces hidden assumptions.
+4. **Check the "Must have" pile against the 60% rule** described above. If it's larger than that, go back through it and challenge each item honestly: is this truly required for the release to work, or just something the team feels strongly about?
+5. **Write down the "Won't have" list and share it with stakeholders** immediately after the session, so it's on record before anyone forgets the reasoning behind it.
+
+## MoSCoW vs a simple priority ranking (High/Medium/Low)
+
+Some teams use a simpler three-level system — High, Medium, Low — instead of MoSCoW. The difference matters more than it looks: "High priority" doesn't tell you whether something is truly required or just important, so two people can both call something "High" and mean very different things. MoSCoW's four categories force a sharper distinction, especially between "Must" (the release fails without it) and "Should" (painful without it, but the release still works) — a distinction that a High/Medium/Low scale tends to blur.
+
 ## FAQ
 
 **Who created MoSCoW prioritization?**
@@ -70,3 +82,9 @@ It's still widely used, largely because it's so simple — unlike RICE, it doesn
 
 **Can MoSCoW be used for things other than software?**
 Yes. It started as a general requirements-management technique, and today it's used in construction, event planning, and any other situation where a group of people needs to agree quickly on what's essential and what can wait.
+
+**Who should be in the room for a MoSCoW session?**
+Ideally, the people who understand the customer or business need (a product manager or business analyst), the people who'll build it (engineering or delivery leads), and at least one stakeholder who can make the final call on disagreements. Leaving out the delivery team is a common mistake, since it means Effort and feasibility never enter the conversation.
+
+**What happens to the "Won't have" items — are they gone forever?**
+No. "Won't have" simply means not in this specific release. Many teams keep a running list of "Won't have (this time)" items and revisit it at the start of the next planning cycle, since priorities and available time often change between releases.

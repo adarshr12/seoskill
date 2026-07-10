@@ -49,6 +49,16 @@ This isn't just a technical detail — it changes what you should actually build
 
 This connects directly to two other topics on this site: [using AI to prioritize your backlog](/ai-for-product-managers/how-to-use-ai-to-prioritize-your-backlog) and [writing a PRD with AI](/ai-for-product-managers/how-to-write-a-prd-using-ai-prompts). Both of those are single-turn LLM tasks today, but they're increasingly being turned into agentic workflows — for example, an AI that researches, drafts, and revises an entire PRD across several steps, without you having to re-prompt it after each section.
 
+## A worked example: the same task, single-turn vs agentic
+
+To make the difference concrete, picture a product manager who needs a competitive pricing comparison.
+
+**Single-turn LLM approach:** the PM manually visits three competitor pricing pages, copies the text, pastes it into an LLM chat, and asks it to build a comparison table. The PM does the searching and gathering; the LLM only does the summarizing. One prompt, one response, done.
+
+**Agentic approach:** the PM gives the same request to an agentic system — "research our top 3 competitors' pricing pages and build a comparison table." The system decides on its own to search the web, opens each competitor's pricing page, reads and extracts the relevant numbers, checks its own table for consistency, and returns a finished result — all without the PM doing any of the searching or copying themselves. The PM's effort drops from 20 minutes of manual work to writing one clear request and reviewing the output.
+
+The trade-off: the single-turn version is slower for the person doing it, but every step is something a human directly saw and controlled. The agentic version is much faster, but the PM has to trust that the system searched the right pages, read them correctly, and didn't quietly make up a number it couldn't find — which is exactly why reviewing agentic output carefully, rather than assuming it's correct, matters more as tasks get more autonomous.
+
 ## FAQ
 
 **Is ChatGPT an LLM, or is it agentic AI?**
@@ -62,3 +72,9 @@ Small mistakes can add up across several steps, the cost can be unpredictable si
 
 **What's the difference between "an AI agent" and "agentic AI"?**
 In practice, people use these two terms almost interchangeably. "AI agent" usually refers to one specific system built this way — a named tool that acts on its own. "Agentic AI" usually refers to the broader approach or style of building AI systems this way. See [What Are AI Agents and How PMs Should Think About Them](/ai-for-product-managers/what-are-ai-agents-and-how-pms-should-think-about-them).
+
+**Do agentic AI systems cost more to run than single-turn LLM calls?**
+Usually, yes. Because an agentic task can involve many individual steps behind the scenes — searching, reading, checking, retrying — each with its own AI call, the total cost of one agentic task is often several times higher than a single-turn request. This is a real product and business consideration, not just a technical one, especially at scale.
+
+**How do you test an agentic AI feature before shipping it?**
+Testing needs to cover more than just "is the final answer right." You also need to test how the system behaves when a step fails, whether it asks for help at the right moments instead of guessing, and whether it stays within the boundaries you defined (like never sending something externally without approval). This is meaningfully different from testing a single-turn feature, where you mostly just check the quality of one response.

@@ -84,6 +84,17 @@ Picture a mid-size business software company that makes an invoicing tool. We'll
 
 RICE is just one of several ways to prioritize what to build. See how it compares to [MoSCoW](/product-frameworks/moscow-prioritization-framework), [Kano](/product-frameworks/kano-model-explained), and [ICE scoring](/product-frameworks/ice-scoring-model-for-prioritization) in our [prioritization frameworks comparison](/product-frameworks/product-market-fit-frameworks-compared).
 
+## Common mistakes teams make when running RICE
+
+- **Letting Confidence become a way to sneak a favorite idea to the top.** If a team keeps scoring their preferred idea at 100% confidence and everything else lower, the scoring session has stopped being objective — treat unusually high confidence scores as something to double-check, not celebrate.
+- **Skipping the "sanity check" step at the end.** The worked example above showed how the highest RICE score isn't always the right first choice. Teams that treat the ranked list as final, without asking "does this still make sense," end up shipping the cheapest ideas instead of the most important ones.
+- **Estimating Effort in days instead of person-months.** Day-level estimates create a false sense of precision and tend to be wildly optimistic. Person-months force a more honest, higher-level estimate.
+- **Re-scoring an idea every time someone disagrees with its rank.** RICE scores should be revisited when real facts change (new data, a changed deadline), not simply because a stakeholder is unhappy with where their idea landed.
+
+## RICE for a real backlog, not just three ideas
+
+In practice, a quarterly planning session usually involves scoring 15 to 30 ideas at once, not three. The mechanics are the same as the worked example above, just repeated for every idea, but two extra habits help at that scale: group similar ideas together before scoring (comparing five small bug-fix-sized ideas against one large multi-month bet on the same list produces misleading rankings), and re-run the scoring exercise as a group discussion rather than everyone scoring alone and averaging the numbers — the conversation that happens while assigning scores is often more valuable than the score itself, because it surfaces disagreements about assumptions early.
+
 ## FAQ
 
 **Who invented the RICE framework?**
@@ -97,3 +108,9 @@ ICE (Impact, Confidence, Ease) is a simpler, faster three-part version that skip
 
 **Can RICE be used outside of product management?**
 Yes. Marketing and growth teams, and even some project managers, use RICE or a very similar version of it to decide which campaigns or experiments to run first.
+
+**How often should a team re-run RICE scoring?**
+Most teams re-score at the start of each planning cycle, such as every quarter, rather than continuously. Scoring too often wastes time re-litigating decisions before new data has had a chance to come in; scoring too rarely means the backlog stops reflecting what the team has actually learned.
+
+**Should RICE scores ever override a direct request from a senior leader?**
+Not automatically, but a RICE score gives you a concrete, evidence-based way to have that conversation instead of just saying yes. If a low-scoring idea still needs to happen for a strategic reason a formula can't capture — like a regulatory deadline — say so explicitly, rather than quietly inflating the score to justify a decision that's already been made.

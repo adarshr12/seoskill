@@ -73,6 +73,17 @@ Copy this into a spreadsheet, replace the bracketed placeholders with your real 
 
 A few teams need something with a bit more detail than plain RACI. **RACI-VS** adds two more roles: Verifier and Signatory. **DACI** (Driver, Approver, Contributor, Informed) is common in product teams and is built for mapping out one specific decision, rather than a full list of project tasks. If you're trying to clarify a single decision instead of an entire task list, DACI is often the better fit — see how it compares in our [stakeholder analysis guide](/business-analyst/what-is-stakeholder-analysis).
 
+## Common mistakes when building a RACI matrix
+
+- **Marking more than one person as Accountable for the same task.** This is the single most common mistake, and it defeats the entire purpose of the tool — a shared "A" almost always turns into no one actually owning the decision.
+- **Consulting too many people.** Every "C" is a person who can slow a task down by needing to weigh in first. A RACI matrix with ten "C"s on every row will move slower than having no RACI matrix at all.
+- **Building it once and never updating it.** Projects change — new stakeholders join, priorities shift, people leave. A RACI matrix that's a year out of date can actively mislead people about who's really responsible for something.
+- **Skipping the review step.** A RACI matrix that only the person who built it has seen isn't a real agreement — it's a guess. Every person named in the chart should confirm they understand and accept their role before the project starts.
+
+## RACI in a real, messy example: a cross-team compliance project
+
+RACI matrices are most useful exactly when a task crosses several teams, which is also when they're hardest to build well. Picture a company that needs to update its data privacy practices to comply with a new regulation. Legal is Accountable for the overall compliance sign-off. A business analyst is Responsible for mapping out every place in the product that touches personal data — this is the actual investigative work. Engineering leads are Consulted, since they know the technical systems involved, and also Responsible for making the specific code changes once they're identified. The executive team is Informed with regular updates, since this is a business risk they need visibility into, without being involved in the day-to-day work. Written out as a RACI matrix, this makes it immediately clear that legal isn't the team doing the investigative work (the business analyst is), even though legal owns the final outcome — a distinction that's often unclear in a project like this until it's put in writing.
+
 ## FAQ
 
 **Who usually creates the RACI matrix — the product manager or the business analyst?**
@@ -86,3 +97,9 @@ A [project charter](/project-management/what-is-a-project-charter) is the docume
 
 **How is RACI used differently on Agile teams?**
 Agile and Scrum teams usually apply RACI more loosely, often at the level of a whole feature rather than every single task, because Scrum's built-in roles — product owner, Scrum Master, and the development team — already make most day-to-day responsibilities clear. Teams still find RACI useful for decisions that reach outside the Scrum team itself, like legal approval or communicating with senior stakeholders.
+
+**How big should a RACI matrix be — should every single task have one?**
+No. RACI is most useful for tasks that involve more than one team or role, where responsibility could genuinely be unclear. Building a full RACI matrix for a task that one person clearly owns from start to finish just adds paperwork without adding clarity.
+
+**What's the biggest sign that a project actually needs a RACI matrix?**
+If people on the project can't quickly answer "who decides this" or "who's actually doing this part," that's the clearest signal. Confusion about ownership — not project size alone — is the real trigger for building one.

@@ -70,6 +70,17 @@ This is below the healthy target of about 3 to 1. In plain terms, Ledgerly is sp
 
 CAC and LTV aren't only a finance or marketing concern. Every product decision that helps customers stay longer (see [retention rate](/product-metrics/what-is-retention-rate-vs-churn-rate)), get started faster (see [activation rate](/product-metrics/what-is-activation-rate-in-product-analytics)), or spend more over time (see [expansion revenue](/product-led-growth/what-is-expansion-revenue-and-how-to-drive-it)) directly raises LTV. And anything that makes onboarding or self-serve sign-up smoother can directly lower CAC. A product manager who can say "this change raised our LTV to CAC ratio from 2.1 to 2.8" is making an argument that any executive will immediately understand — far more convincing than usage numbers alone.
 
+## Common mistakes when calculating CAC and LTV
+
+- **Leaving out costs that belong in CAC.** Total sales and marketing spend should include salaries, ad spend, tools, and content costs — not just ad spend alone. Counting only paid ads makes CAC look artificially low.
+- **Using revenue instead of margin-adjusted revenue for LTV.** As shown above, raw revenue overstates how valuable a customer really is, because it ignores the cost of actually serving them.
+- **Comparing CAC and LTV across very different customer segments as if they were one number.** A $50-a-month customer and a $5,000-a-month enterprise customer have completely different CAC and LTV profiles — blending them into one average ratio can hide serious problems in one segment.
+- **Calculating LTV once and never updating it.** Customer lifespan and revenue per customer both change as a product matures — an LTV number from two years ago can be dangerously out of date if pricing or retention has shifted since then.
+
+## How LTV:CAC changes as a company grows
+
+Early-stage companies often have a lower, sometimes even negative, LTV:CAC ratio, and that's not automatically a bad sign — it can simply mean the company hasn't yet had enough time to see how long customers actually stick around, so the LTV side of the equation is underestimated. What matters is the trend: a healthy company should see its ratio improve over time as the product and retention improve, even if the very first year or two of data looks weak. A ratio that stays flat or gets worse over several quarters is the real warning sign, not a low number in year one.
+
 ## FAQ
 
 **What's a good CAC payback period?**
@@ -83,3 +94,9 @@ A typical ROI calculation usually looks at a single, shorter period. LTV to CAC 
 
 **Can a brand-new startup calculate LTV accurately before it has years of data?**
 Not precisely. Early-stage companies usually estimate it using the first few months of retention data they do have, and refine the number as more real data comes in — rather than waiting years to get a "true" answer.
+
+**Should CAC include the cost of the sales team, or just marketing?**
+It should include both. A complete CAC calculation adds together every cost involved in winning a new customer — marketing spend, sales salaries and commissions, and any tools or software used specifically for acquisition — divided by the number of new customers won in that period.
+
+**Is a high LTV:CAC ratio always a good thing?**
+Not necessarily. As mentioned above, a very high ratio (often cited as above 5 to 1) can mean a company is being too cautious with its growth spending and could likely afford to acquire customers faster without hurting its unit economics — so "higher is always better" isn't quite the right way to read this number.

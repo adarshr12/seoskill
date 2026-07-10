@@ -50,6 +50,17 @@ People mix these two up because both roles involve deciding what gets built. The
 
 Most product owners come from a business analyst, product manager, or subject-matter-expert background, rather than an engineering one. A **Certified Scrum Product Owner (CSPO)** or **Professional Scrum Product Owner (PSPO)** certification is the most common way to break into the role — see our take on [whether CSPO is worth it](/agile-scrum-safe/certified-scrum-product-owner-cspo-is-it-worth-it). Becoming a product owner is also a common first step toward eventually becoming a full product manager.
 
+## A typical week for a product owner
+
+To make the role concrete: a product owner's week usually includes a **backlog refinement session** (going through upcoming tasks with the team to make sure they're clear and estimated), **sprint planning** (agreeing what the team will build in the next sprint), daily short check-ins with the development team to answer questions and remove blockers, and time spent writing and clarifying user stories for future sprints. Outside of these set meetings, a product owner is also fielding questions from stakeholders about what's coming next, and reviewing finished work against the acceptance criteria before it's considered done.
+
+## Common mistakes new product owners make
+
+- **Writing vague user stories and hoping the team will "figure it out."** Ambiguous requirements are one of the biggest causes of wasted engineering time — if a story can be reasonably interpreted two different ways, it will be.
+- **Saying yes to every mid-sprint request.** Protecting the sprint from new work once it's started is part of the job — constant interruptions are what cause a team to miss its sprint goal.
+- **Never saying no to stakeholders, to avoid conflict.** A backlog that tries to include everything everyone wants isn't prioritized at all — it's just a wish list, and the team ends up building whatever was asked for most recently instead of what matters most.
+- **Treating the backlog as a one-time document instead of a living one.** A backlog that isn't regularly refined gets stale — priorities shift, and old stories stop matching what the business actually needs.
+
 ## FAQ
 
 **Does a product owner need to know how to code?**
@@ -60,3 +71,9 @@ Officially, no. The Scrum Guide keeps these as separate roles on purpose, becaus
 
 **Is product owner a good way to start a career in product?**
 Yes. It's often easier to break into than product manager, because it doesn't require a business-strategy background — just strong prioritization skills and clear communication within one specific area.
+
+**How is a product owner different from a Scrum Master?**
+A product owner decides *what* the team builds and in what order. A Scrum Master helps the team work well together and removes anything blocking their progress, without deciding what gets built. They're both part of the same three-role Scrum team, but they solve different problems.
+
+**Does a product owner set the product's overall strategy?**
+Not usually. In most companies, the broader strategy comes from a product manager, and the product owner's job is to translate that strategy into a clear, well-ordered backlog for their specific team. In smaller companies without a dedicated product manager, a product owner sometimes ends up doing both.

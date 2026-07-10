@@ -58,6 +58,17 @@ Messaging is the specific wording you use — the words on your landing page, in
 - Your sales team is pitching the product differently every time, because there's no shared, strategic answer to "who is this for, and why choose us."
 - You've changed direction as a company, or shipped a major new feature that changes who your real competition actually is now.
 
+## Common mistakes teams make with positioning
+
+- **Writing the tagline before deciding the positioning.** This produces messaging that sounds good in a meeting but falls apart the moment a prospect asks "compared to what?" — because there was never a real strategic answer underneath it.
+- **Trying to position a product for everyone at once.** A positioning statement that tries to appeal to every possible customer usually ends up meaning nothing specific to any of them. Strong positioning deliberately leaves some potential customers out.
+- **Never revisiting positioning after the market changes.** A positioning statement written two years ago, before a new competitor entered or the product changed significantly, can quietly stop matching reality — while the marketing and sales materials built on top of it keep repeating it anyway.
+- **Confusing your company's internal view of its strengths with what customers actually value.** Positioning has to be grounded in what the target customer cares about, not just what the team is proudest of building.
+
+## How to sanity-check your positioning
+
+A simple test: read your positioning statement to someone who fits your target customer profile but has never heard of your product, and ask them to explain, in their own words, who it's for and why they'd pick it over what they use today. If they can't do that in one or two sentences, the positioning likely isn't specific enough yet — either the target customer is too broad, the competitive alternative isn't the real one they'd actually consider, or the unique value isn't clearly tied to something they care about.
+
 ## FAQ
 
 **Who created the positioning framework used most today?**
@@ -71,3 +82,9 @@ A value proposition focuses specifically on the benefit you deliver to the custo
 
 **Do consumer products need formal positioning too, or is this only for business software?**
 Yes, any product with a real choice of alternatives and a specific target customer benefits from this framework — though consumer positioning often leans more on emotional or lifestyle differences, while business-to-business positioning usually leans more on specific, practical differences.
+
+**How specific should the target customer in a positioning statement really be?**
+More specific than most teams are initially comfortable with. "Small B2B service businesses that currently invoice through spreadsheets" is useful and specific; "small businesses" is too broad to guide any real decision. If the target customer description could apply to half the market, it isn't doing its job yet.
+
+**Does positioning need to change every time you add a new feature?**
+No — only when a new feature changes who your real competitive alternative is, or meaningfully shifts which customer segment gets the most value from the product. Most feature launches don't require a positioning change; a genuine shift in target customer or competitive landscape does.

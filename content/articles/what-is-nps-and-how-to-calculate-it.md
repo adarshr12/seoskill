@@ -60,6 +60,17 @@ See the full comparison here: [NPS vs CSAT vs CES](/product-metrics/what-is-csat
 
 NPS only tells you that loyalty went up or down — it doesn't tell you *why*. The real value comes from the follow-up question that should always come right after the score: "What's the main reason for your answer?" That open-ended answer is where the useful, actionable information actually lives. It's best to treat NPS as one signal of overall health, not a full diagnosis — pair it with [retention and churn data](/product-metrics/what-is-retention-rate-vs-churn-rate) and direct conversations with customers, like [user interviews](/product-discovery/how-to-conduct-effective-user-interviews), to understand the full picture.
 
+## Common mistakes when measuring NPS
+
+- **Surveying only happy customers.** Sending the NPS survey only to active, engaged users (and skipping anyone who's gone quiet or is at risk of leaving) inflates the score and hides the exact group of people you most need to hear from.
+- **Not asking the follow-up "why" question.** A score with no explanation tells you almost nothing you can act on — the open-ended reason behind the score is where the useful signal lives.
+- **Comparing your score directly to a different industry's benchmark.** A consumer app and an enterprise software company have very different typical NPS ranges — comparing your score to the wrong benchmark can make a genuinely healthy score look bad, or a weak one look fine.
+- **Treating a single survey wave as the full picture.** One NPS number is a snapshot. The trend over several survey waves tells you far more than any single score does.
+
+## What to actually do with a low NPS score
+
+A low or falling NPS score is a starting point for investigation, not a finished diagnosis. The useful next step is to read through the open-ended "why" answers from Detractors specifically, and look for a pattern — is it one recurring bug, a pricing complaint, a missing feature, or a support problem? Once a pattern shows up, treat it the same way you'd treat any other prioritization decision: weigh it against everything else on the roadmap using a framework like [RICE](/product-frameworks/rice-framework-explained-with-example), rather than reacting to the score itself as an emergency.
+
 ## FAQ
 
 **What counts as a good NPS score?**
@@ -73,3 +84,9 @@ Overall relationship NPS — the general "how loyal are our customers" check-in 
 
 **Can NPS predict whether a customer will cancel?**
 Customers who give a low, "Detractor" score are more likely to cancel, but NPS shouldn't be the only signal you rely on — it works best alongside actual usage and retention data, since a customer can give a low score and still stick around, or the reverse.
+
+**How many responses do you need for NPS to be reliable?**
+There's no fixed number, but a very small sample (say, under 30 to 50 responses) can swing wildly with just one or two extra Detractors or Promoters. Larger, more mature products often need several hundred responses per survey wave before the score is stable enough to track meaningfully over time.
+
+**Is it better to survey NPS constantly, or at set intervals?**
+Both approaches exist and serve different purposes. Continuous, "always-on" NPS surveys (often triggered after a specific action) catch problems close to when they happen. Periodic relationship NPS (say, once a quarter) is better for tracking overall brand health over a longer period. Many companies run both at once, for different purposes.
