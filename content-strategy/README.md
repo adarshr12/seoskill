@@ -109,8 +109,20 @@ Update this table as each batch is written, so future sessions don't duplicate w
 | 210 | What is a spike in Agile (and when to use one) | [what-is-a-spike-in-agile.md](../content/articles/what-is-a-spike-in-agile.md) | Published |
 | 216 | What is a backlog refinement session | [what-is-a-backlog-refinement-session.md](../content/articles/what-is-a-backlog-refinement-session.md) | Published |
 | 219 | What is MVP vs MMP (minimum marketable product) | [what-is-mvp-vs-mmp.md](../content/articles/what-is-mvp-vs-mmp.md) | Published |
+| 241 | How to use AI in product management (complete guide) | [how-to-use-ai-in-product-management.md](../content/articles/how-to-use-ai-in-product-management.md) | Published |
+| 242 | Best AI tools for product managers in 2026 | [best-ai-tools-for-product-managers-in-2026.md](../content/articles/best-ai-tools-for-product-managers-in-2026.md) | Published |
+| 243 | How to write a PRD using AI prompts | [how-to-write-a-prd-using-ai-prompts.md](../content/articles/how-to-write-a-prd-using-ai-prompts.md) | Published |
+| 258 | Will AI replace product managers — honest take | [will-ai-replace-product-managers-honest-take.md](../content/articles/will-ai-replace-product-managers-honest-take.md) | Published |
+| 261 | How to become a top 1% product manager | [how-to-become-a-top-1-percent-product-manager.md](../content/articles/how-to-become-a-top-1-percent-product-manager.md) | Published |
+| 279 | What is a PI (Program Increment) in SAFe | [what-is-a-pi-in-safe.md](../content/articles/what-is-a-pi-in-safe.md) | Published |
+| 291 | What is WSJF (Weighted Shortest Job First) prioritization in SAFe | [what-is-wsjf-prioritization-in-safe.md](../content/articles/what-is-wsjf-prioritization-in-safe.md) | Published |
+| 295 | SAFe vs Scrum vs Kanban — when to use which | [safe-vs-scrum-vs-kanban-when-to-use-which.md](../content/articles/safe-vs-scrum-vs-kanban-when-to-use-which.md) | Published |
+| 2 | What does a product manager do day to day | [what-does-a-product-manager-do-day-to-day.md](../content/articles/what-does-a-product-manager-do-day-to-day.md) | Published |
+| 5 | Core PM vs platform PM vs growth PM | [core-pm-vs-platform-pm-vs-growth-pm.md](../content/articles/core-pm-vs-platform-pm-vs-growth-pm.md) | Published |
+| 9 | Mobile app PM vs web app PM | [mobile-app-pm-vs-web-app-pm.md](../content/articles/mobile-app-pm-vs-web-app-pm.md) | Published |
+| 10 | What does a B2B PM do differently from B2C | [what-does-a-b2b-pm-do-differently-from-b2c.md](../content/articles/what-does-a-b2b-pm-do-differently-from-b2c.md) | Published |
 
-**71 of 297 topics published.**
+**83 of 297 topics published.** All P1 topics are now done — the remaining ~214 are P2 (solid cluster-supporting content) and P3 (niche/long-tail).
 
 ### Two ways to get this content live
 
