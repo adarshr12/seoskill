@@ -97,8 +97,20 @@ Update this table as each batch is written, so future sessions don't duplicate w
 | 159 | What is a project charter | [what-is-a-project-charter.md](../content/articles/what-is-a-project-charter.md) | Published |
 | 164 | What is earned value management (EVM) | [what-is-earned-value-management.md](../content/articles/what-is-earned-value-management.md) | Published |
 | 168 | What is a project management office (PMO) | [what-is-a-project-management-office.md](../content/articles/what-is-a-project-management-office.md) | Published |
+| 171 | Best product management certifications in 2026 | [best-product-management-certifications-in-2026.md](../content/articles/best-product-management-certifications-in-2026.md) | Published |
+| 173 | Is a PMP certification worth it for product managers | [is-a-pmp-certification-worth-it-for-product-managers.md](../content/articles/is-a-pmp-certification-worth-it-for-product-managers.md) | Published |
+| 177 | Is an MBA necessary to become a product manager | [is-an-mba-necessary-to-become-a-product-manager.md](../content/articles/is-an-mba-necessary-to-become-a-product-manager.md) | Published |
+| 188 | Product sense interview questions explained | [product-sense-interview-questions-explained.md](../content/articles/product-sense-interview-questions-explained.md) | Published |
+| 197 | How to switch from engineer to product manager | [how-to-switch-from-engineer-to-product-manager.md](../content/articles/how-to-switch-from-engineer-to-product-manager.md) | Published |
+| 201 | How to write a product manager resume that gets shortlisted | [how-to-write-a-product-manager-resume-that-gets-shortlisted.md](../content/articles/how-to-write-a-product-manager-resume-that-gets-shortlisted.md) | Published |
+| 203 | Salary negotiation tips for product management roles | [salary-negotiation-tips-for-product-management-roles.md](../content/articles/salary-negotiation-tips-for-product-management-roles.md) | Published |
+| 206 | What is PI planning (Program Increment planning) | [what-is-pi-planning.md](../content/articles/what-is-pi-planning.md) | Published |
+| 207 | What is a release in Agile/Scrum | [what-is-a-release-in-agile-scrum.md](../content/articles/what-is-a-release-in-agile-scrum.md) | Published |
+| 210 | What is a spike in Agile (and when to use one) | [what-is-a-spike-in-agile.md](../content/articles/what-is-a-spike-in-agile.md) | Published |
+| 216 | What is a backlog refinement session | [what-is-a-backlog-refinement-session.md](../content/articles/what-is-a-backlog-refinement-session.md) | Published |
+| 219 | What is MVP vs MMP (minimum marketable product) | [what-is-mvp-vs-mmp.md](../content/articles/what-is-mvp-vs-mmp.md) | Published |
 
-**59 of 297 topics published.**
+**71 of 297 topics published.**
 
 ### Two ways to get this content live
 
