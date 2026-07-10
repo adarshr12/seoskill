@@ -133,8 +133,20 @@ Update this table as each batch is written, so future sessions don't duplicate w
 | 32 | Lean Startup methodology for PMs | [lean-startup-methodology-for-pms.md](../content/articles/lean-startup-methodology-for-pms.md) | Published |
 | 33 | Design thinking framework for product teams | [design-thinking-framework-for-product-teams.md](../content/articles/design-thinking-framework-for-product-teams.md) | Published |
 | 34 | Business Model Canvas explained | [business-model-canvas-explained.md](../content/articles/business-model-canvas-explained.md) | Published |
+| 35 | Value Proposition Canvas | [value-proposition-canvas.md](../content/articles/value-proposition-canvas.md) | Published |
+| 36 | SWOT analysis for product strategy | [swot-analysis-for-product-strategy.md](../content/articles/swot-analysis-for-product-strategy.md) | Published |
+| 37 | Porter's Five Forces for product strategy | [porters-five-forces-for-product-strategy.md](../content/articles/porters-five-forces-for-product-strategy.md) | Published |
+| 38 | Blue Ocean Strategy explained | [blue-ocean-strategy-explained.md](../content/articles/blue-ocean-strategy-explained.md) | Published |
+| 39 | Working backwards framework (Amazon PR/FAQ) | [working-backwards-framework.md](../content/articles/working-backwards-framework.md) | Published |
+| 40 | First principles thinking in product management | [first-principles-thinking-in-product-management.md](../content/articles/first-principles-thinking-in-product-management.md) | Published |
+| 41 | STAR method for behavioral interviews | [star-method-for-behavioral-interviews.md](../content/articles/star-method-for-behavioral-interviews.md) | Published |
+| 42 | CIRCLES method for product sense questions | [circles-method-for-product-sense-questions.md](../content/articles/circles-method-for-product-sense-questions.md) | Published |
+| 43 | AIDA framework for marketing/product | [aida-framework-for-marketing-product.md](../content/articles/aida-framework-for-marketing-product.md) | Published |
+| 44 | Bullseye framework for growth channels | [bullseye-framework-for-growth-channels.md](../content/articles/bullseye-framework-for-growth-channels.md) | Published |
+| 45 | Product-market fit frameworks compared | [product-market-fit-frameworks-compared.md](../content/articles/product-market-fit-frameworks-compared.md) | Published |
+| 47 | What is LTV:CAC ratio and what's a good one | [what-is-ltv-cac-ratio-and-whats-a-good-one.md](../content/articles/what-is-ltv-cac-ratio-and-whats-a-good-one.md) | Published |
 
-**95 of 297 topics published.** All P1 topics are done; now working through P2 (solid cluster-supporting content), then P3 (niche/long-tail).
+**107 of 297 topics published.** All of Frameworks & Methodologies cluster is now complete. Working through remaining P2 clusters next.
 
 ### Two ways to get this content live
 
