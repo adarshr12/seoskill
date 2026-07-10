@@ -279,7 +279,20 @@ Update this table as each batch is written, so future sessions don't duplicate w
 | 238 | Functional requirements checklist for PMs | [functional-requirements-checklist-for-pms.md](../content/articles/functional-requirements-checklist-for-pms.md) | Published |
 | 239 | How to validate requirements before development starts | [how-to-validate-requirements-before-development-starts.md](../content/articles/how-to-validate-requirements-before-development-starts.md) | Published |
 
-**239 of 297 topics published.** Estimation & Guesstimates cluster is now fully complete. Agile Terminology Deep-Dive (13/15) and Requirement Gathering & Documentation (11/12) nearly complete. Certifications cluster (4 topics) and remaining P2/P3 topics next.
+| 240 | Common requirement gathering mistakes to avoid | [common-requirement-gathering-mistakes-to-avoid.md](../content/articles/common-requirement-gathering-mistakes-to-avoid.md) | Published |
+| 244 | Best ChatGPT/Claude prompts for writing a PRD | [best-chatgptclaude-prompts-for-writing-a-prd.md](../content/articles/best-chatgptclaude-prompts-for-writing-a-prd.md) | Published |
+| 245 | How to use AI for market research | [how-to-use-ai-for-market-research.md](../content/articles/how-to-use-ai-for-market-research.md) | Published |
+| 246 | How to use AI for competitive analysis | [how-to-use-ai-for-competitive-analysis.md](../content/articles/how-to-use-ai-for-competitive-analysis.md) | Published |
+| 247 | How to use AI for user interview analysis and synthesis | [how-to-use-ai-for-user-interview-analysis-and-synthesis.md](../content/articles/how-to-use-ai-for-user-interview-analysis-and-synthesis.md) | Published |
+| 248 | How to use AI to write user stories faster | [how-to-use-ai-to-write-user-stories-faster.md](../content/articles/how-to-use-ai-to-write-user-stories-faster.md) | Published |
+| 249 | How to use AI for effective product storytelling | [how-to-use-ai-for-effective-product-storytelling.md](../content/articles/how-to-use-ai-for-effective-product-storytelling.md) | Published |
+| 250 | How to build an AI agent as a product manager (no-code) | [how-to-build-an-ai-agent-as-a-product-manager.md](../content/articles/how-to-build-an-ai-agent-as-a-product-manager.md) | Published |
+| 251 | What are AI agents and how PMs should think about them | [what-are-ai-agents-and-how-pms-should-think-about-them.md](../content/articles/what-are-ai-agents-and-how-pms-should-think-about-them.md) | Published |
+| 252 | How to use Claude for product management tasks | [how-to-use-claude-for-product-management-tasks.md](../content/articles/how-to-use-claude-for-product-management-tasks.md) | Published |
+| 253 | Claude skills for product managers — practical use cases | [claude-skills-for-product-managers-practical-use-cases.md](../content/articles/claude-skills-for-product-managers-practical-use-cases.md) | Published |
+| 254 | How to use AI to prioritize your backlog | [how-to-use-ai-to-prioritize-your-backlog.md](../content/articles/how-to-use-ai-to-prioritize-your-backlog.md) | Published |
+
+**251 of 297 topics published.** Requirement Gathering & Documentation cluster is now fully complete. AI for Product Managers cluster underway (16/21). Agile Terminology Deep-Dive (13/15) nearly complete. Certifications cluster (4 topics) and remaining P2/P3 topics next.
 
 ### Two ways to get this content live
 
