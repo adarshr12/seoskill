@@ -121,8 +121,20 @@ Update this table as each batch is written, so future sessions don't duplicate w
 | 5 | Core PM vs platform PM vs growth PM | [core-pm-vs-platform-pm-vs-growth-pm.md](../content/articles/core-pm-vs-platform-pm-vs-growth-pm.md) | Published |
 | 9 | Mobile app PM vs web app PM | [mobile-app-pm-vs-web-app-pm.md](../content/articles/mobile-app-pm-vs-web-app-pm.md) | Published |
 | 10 | What does a B2B PM do differently from B2C | [what-does-a-b2b-pm-do-differently-from-b2c.md](../content/articles/what-does-a-b2b-pm-do-differently-from-b2c.md) | Published |
+| 12 | Associate PM vs senior PM vs group PM — role differences | [associate-pm-vs-senior-pm-vs-group-pm-role-differences.md](../content/articles/associate-pm-vs-senior-pm-vs-group-pm-role-differences.md) | Published |
+| 14 | Product manager career path explained | [product-manager-career-path-explained.md](../content/articles/product-manager-career-path-explained.md) | Published |
+| 20 | What does a product marketing manager do | [what-does-a-product-marketing-manager-do.md](../content/articles/what-does-a-product-marketing-manager-do.md) | Published |
+| 25 | AARRR pirate metrics framework | [aarrr-pirate-metrics-framework.md](../content/articles/aarrr-pirate-metrics-framework.md) | Published |
+| 26 | North Star metric framework | [north-star-metric-framework.md](../content/articles/north-star-metric-framework.md) | Published |
+| 28 | HEART framework for UX metrics | [heart-framework-for-ux-metrics.md](../content/articles/heart-framework-for-ux-metrics.md) | Published |
+| 29 | ICE scoring model for prioritization | [ice-scoring-model-for-prioritization.md](../content/articles/ice-scoring-model-for-prioritization.md) | Published |
+| 30 | Opportunity Solution Tree explained | [opportunity-solution-tree-explained.md](../content/articles/opportunity-solution-tree-explained.md) | Published |
+| 31 | Double Diamond design process | [double-diamond-design-process.md](../content/articles/double-diamond-design-process.md) | Published |
+| 32 | Lean Startup methodology for PMs | [lean-startup-methodology-for-pms.md](../content/articles/lean-startup-methodology-for-pms.md) | Published |
+| 33 | Design thinking framework for product teams | [design-thinking-framework-for-product-teams.md](../content/articles/design-thinking-framework-for-product-teams.md) | Published |
+| 34 | Business Model Canvas explained | [business-model-canvas-explained.md](../content/articles/business-model-canvas-explained.md) | Published |
 
-**83 of 297 topics published.** All P1 topics are now done — the remaining ~214 are P2 (solid cluster-supporting content) and P3 (niche/long-tail).
+**95 of 297 topics published.** All P1 topics are done; now working through P2 (solid cluster-supporting content), then P3 (niche/long-tail).
 
 ### Two ways to get this content live
 
