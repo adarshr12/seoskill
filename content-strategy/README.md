@@ -85,8 +85,29 @@ Update this table as each batch is written, so future sessions don't duplicate w
 | 97 | Freemium vs free trial — which model to choose | [freemium-vs-free-trial-which-model-to-choose.md](../content/articles/freemium-vs-free-trial-which-model-to-choose.md) | Published |
 | 117 | How to write a PRD (product requirements document) | [how-to-write-a-prd.md](../content/articles/how-to-write-a-prd.md) | Published |
 | 122 | Business analyst vs product manager — overlap and differences | [business-analyst-vs-product-manager-overlap-and-differences.md](../content/articles/business-analyst-vs-product-manager-overlap-and-differences.md) | Published |
+| 125 | What is a functional requirements specification (FRS) | [what-is-a-functional-requirements-specification.md](../content/articles/what-is-a-functional-requirements-specification.md) | Published |
+| 126 | Gap analysis explained for business analysts | [gap-analysis-explained-for-business-analysts.md](../content/articles/gap-analysis-explained-for-business-analysts.md) | Published |
+| 127 | What is stakeholder analysis | [what-is-stakeholder-analysis.md](../content/articles/what-is-stakeholder-analysis.md) | Published |
+| 130 | What is a use case diagram | [what-is-a-use-case-diagram.md](../content/articles/what-is-a-use-case-diagram.md) | Published |
+| 132 | What is a feasibility study | [what-is-a-feasibility-study.md](../content/articles/what-is-a-feasibility-study.md) | Published |
+| 138 | What is a business case document | [what-is-a-business-case-document.md](../content/articles/what-is-a-business-case-document.md) | Published |
+| 141 | What does a product owner do in Scrum | [what-does-a-product-owner-do-in-scrum.md](../content/articles/what-does-a-product-owner-do-in-scrum.md) | Published |
+| 153 | What is a release train engineer in SAFe | [what-is-a-release-train-engineer-in-safe.md](../content/articles/what-is-a-release-train-engineer-in-safe.md) | Published |
+| 158 | Waterfall vs Agile project management — differences | [waterfall-vs-agile-project-management-differences.md](../content/articles/waterfall-vs-agile-project-management-differences.md) | Published |
+| 159 | What is a project charter | [what-is-a-project-charter.md](../content/articles/what-is-a-project-charter.md) | Published |
+| 164 | What is earned value management (EVM) | [what-is-earned-value-management.md](../content/articles/what-is-earned-value-management.md) | Published |
+| 168 | What is a project management office (PMO) | [what-is-a-project-management-office.md](../content/articles/what-is-a-project-management-office.md) | Published |
 
-**47 of 297 topics published.** Everything else in the CSV is still open — work top-down by `priority`, P1 first. Remaining P1 topics are the next logical batch; run `python3 supabase/scripts/md_to_seed.py` after any new batch to regenerate the Supabase seed automatically — it's driven entirely by what's in `content/articles/`, so no manual bookkeeping is needed there.
+**59 of 297 topics published.**
+
+### Two ways to get this content live
+
+1. **Website (required, already wired up):** the `adarshr12/website` repo statically generates a page per post straight from a JSON content file at build time — no database dependency, best for SEO/GEO crawlability. See "Website repo sync" below.
+2. **Supabase (optional):** `supabase/seed/blog_posts_insert.sql` is a consolidated, copy-paste-ready SQL file — paste it into the Supabase SQL Editor and run it. Regenerated every batch via `python3 supabase/scripts/seed_to_sql.py`. Only useful if you want a CMS-style editable backend or in-app search later; the live site does not depend on it.
+
+### Website repo sync
+
+After every batch, `supabase/seed/blog_posts_seed.json` is copied into `adarshr12/website`'s `content/blog-posts.json` and pushed to that repo's `claude/add-blog-static-generation` branch, so the site is always ready to deploy with zero manual copying. Merge that branch (and set the `SITE_URL` env var to your real domain) whenever you're ready to go live. Everything else in the CSV is still open — work top-down by `priority`, P1 first. Remaining P1 topics are the next logical batch; run `python3 supabase/scripts/md_to_seed.py` after any new batch to regenerate the Supabase seed automatically — it's driven entirely by what's in `content/articles/`, so no manual bookkeeping is needed there.
 
 ### Writing style: plain-language guide applied to every article (2026-07-10)
 
