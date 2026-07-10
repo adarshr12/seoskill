@@ -169,8 +169,20 @@ Update this table as each batch is written, so future sessions don't duplicate w
 | 79 | How to measure product-market fit | [how-to-measure-product-market-fit.md](../content/articles/how-to-measure-product-market-fit.md) | Published |
 | 80 | Common mistakes in customer discovery | [common-mistakes-in-customer-discovery.md](../content/articles/common-mistakes-in-customer-discovery.md) | Published |
 | 82 | Now-Next-Later roadmap format explained | [now-next-later-roadmap-format-explained.md](../content/articles/now-next-later-roadmap-format-explained.md) | Published |
+| 83 | Outcome-based roadmap vs feature roadmap | [outcome-based-roadmap-vs-feature-roadmap.md](../content/articles/outcome-based-roadmap-vs-feature-roadmap.md) | Published |
+| 84 | How to prioritize features with limited resources | [how-to-prioritize-features-with-limited-resources.md](../content/articles/how-to-prioritize-features-with-limited-resources.md) | Published |
+| 85 | How to say no to a feature request from a stakeholder | [how-to-say-no-to-a-feature-request-from-a-stakeholder.md](../content/articles/how-to-say-no-to-a-feature-request-from-a-stakeholder.md) | Published |
+| 86 | How to align a roadmap with company OKRs | [how-to-align-a-roadmap-with-company-okrs.md](../content/articles/how-to-align-a-roadmap-with-company-okrs.md) | Published |
+| 87 | Quarterly roadmap planning process | [quarterly-roadmap-planning-process.md](../content/articles/quarterly-roadmap-planning-process.md) | Published |
+| 88 | How to communicate roadmap changes to stakeholders | [how-to-communicate-roadmap-changes-to-stakeholders.md](../content/articles/how-to-communicate-roadmap-changes-to-stakeholders.md) | Published |
+| 89 | Roadmap templates for early-stage startups | [roadmap-templates-for-early-stage-startups.md](../content/articles/roadmap-templates-for-early-stage-startups.md) | Published |
+| 90 | How to build a roadmap without engineering buy-in issues | [how-to-build-a-roadmap-without-engineering-buy-in-issues.md](../content/articles/how-to-build-a-roadmap-without-engineering-buy-in-issues.md) | Published |
+| 92 | Product-led growth vs sales-led growth | [product-led-growth-vs-sales-led-growth.md](../content/articles/product-led-growth-vs-sales-led-growth.md) | Published |
+| 93 | How to define a product-led growth strategy | [how-to-define-a-product-led-growth-strategy.md](../content/articles/how-to-define-a-product-led-growth-strategy.md) | Published |
+| 98 | How to design a self-serve onboarding funnel | [how-to-design-a-self-serve-onboarding-funnel.md](../content/articles/how-to-design-a-self-serve-onboarding-funnel.md) | Published |
+| 99 | How to reduce time to first value in onboarding | [how-to-reduce-time-to-first-value-in-onboarding.md](../content/articles/how-to-reduce-time-to-first-value-in-onboarding.md) | Published |
 
-**131 of 297 topics published.** User Research & Discovery cluster is now fully complete (15/15). Working through remaining P2 clusters next.
+**143 of 297 topics published.** Roadmapping & Prioritization cluster is now fully complete. Product-Led Growth & Growth Strategies cluster underway. Working through remaining P2 clusters next.
 
 ### Two ways to get this content live
 
