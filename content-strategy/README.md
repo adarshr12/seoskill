@@ -305,7 +305,20 @@ Update this table as each batch is written, so future sessions don't duplicate w
 | 271 | Who owns the release in SAFe | [who-owns-the-release-in-safe.md](../content/articles/who-owns-the-release-in-safe.md) | Published |
 | 272 | What does a Release Train Engineer (RTE) do in SAFe | [what-does-a-release-train-engineer-do-in-safe.md](../content/articles/what-does-a-release-train-engineer-do-in-safe.md) | Published |
 
-**263 of 297 topics published.** AI for Product Managers cluster is now fully complete. Career Growth & Excellence (6/10) and SAFe Deep-Dive (2/25) underway. Certifications cluster (4 topics) and remaining P2/P3 topics next.
+| 273 | Who owns the team backlog in SAFe | [who-manages-the-team-backlog-in-safe.md](../content/articles/who-manages-the-team-backlog-in-safe.md) | Published |
+| 274 | Who owns the ART (Agile Release Train) backlog in SAFe | [who-manages-the-art-backlog-in-safe.md](../content/articles/who-manages-the-art-backlog-in-safe.md) | Published |
+| 275 | Product manager vs product owner roles in SAFe | [product-manager-vs-product-owner-roles-in-safe.md](../content/articles/product-manager-vs-product-owner-roles-in-safe.md) | Published |
+| 276 | What does a Product Manager do in SAFe (vs Product Owner) | [what-does-a-product-manager-do-in-safe.md](../content/articles/what-does-a-product-manager-do-in-safe.md) | Published |
+| 277 | What is a Scrum Master's role in SAFe | [what-is-a-scrum-masters-role-in-safe.md](../content/articles/what-is-a-scrum-masters-role-in-safe.md) | Published |
+| 278 | What are the SAFe ceremonies/events — full list | [what-are-the-safe-ceremoniesevents-full-list.md](../content/articles/what-are-the-safe-ceremoniesevents-full-list.md) | Published |
+| 286 | What is Lean Portfolio Management in SAFe | [what-is-lean-portfolio-management-in-safe.md](../content/articles/what-is-lean-portfolio-management-in-safe.md) | Published |
+| 288 | SAFe certification exam — common questions and answers | [safe-certification-exam-common-questions-and-answers.md](../content/articles/safe-certification-exam-common-questions-and-answers.md) | Published |
+| 289 | SAFe POPM (Product Owner/Product Manager) exam prep guide | [safe-popm-exam-prep-guide.md](../content/articles/safe-popm-exam-prep-guide.md) | Published |
+| 290 | Difference between SAFe Scrum Master and traditional Scrum Master | [difference-between-safe-scrum-master-and-traditional-scrum-master.md](../content/articles/difference-between-safe-scrum-master-and-traditional-scrum-master.md) | Published |
+| 292 | What is a Feature vs a Capability in SAFe | [what-is-a-feature-vs-a-capability-in-safe.md](../content/articles/what-is-a-feature-vs-a-capability-in-safe.md) | Published |
+| 294 | Common mistakes teams make when adopting SAFe | [common-mistakes-teams-make-when-adopting-safe.md](../content/articles/common-mistakes-teams-make-when-adopting-safe.md) | Published |
+
+**275 of 297 topics published.** SAFe Deep-Dive cluster now at 14/25. Career Growth & Excellence (6/10) underway. Certifications cluster (4 topics) and remaining P2/P3 topics next.
 
 ### Two ways to get this content live
 
