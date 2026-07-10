@@ -157,8 +157,20 @@ Update this table as each batch is written, so future sessions don't duplicate w
 | 62 | What is a vanity metric vs actionable metric | [what-is-a-vanity-metric-vs-actionable-metric.md](../content/articles/what-is-a-vanity-metric-vs-actionable-metric.md) | Published |
 | 63 | How to build a product metrics dashboard | [how-to-build-a-product-metrics-dashboard.md](../content/articles/how-to-build-a-product-metrics-dashboard.md) | Published |
 | 65 | Revenue per user (ARPU) explained | [revenue-per-user-explained.md](../content/articles/revenue-per-user-explained.md) | Published |
+| 67 | How to write good user interview questions | [how-to-write-good-user-interview-questions.md](../content/articles/how-to-write-good-user-interview-questions.md) | Published |
+| 69 | Customer discovery process for new products | [customer-discovery-process-for-new-products.md](../content/articles/customer-discovery-process-for-new-products.md) | Published |
+| 71 | Continuous discovery habits for product teams | [continuous-discovery-habits-for-product-teams.md](../content/articles/continuous-discovery-habits-for-product-teams.md) | Published |
+| 72 | How to identify your target user persona | [how-to-identify-your-target-user-persona.md](../content/articles/how-to-identify-your-target-user-persona.md) | Published |
+| 74 | How to use surveys for product research | [how-to-use-surveys-for-product-research.md](../content/articles/how-to-use-surveys-for-product-research.md) | Published |
+| 75 | Qualitative vs quantitative user research | [qualitative-vs-quantitative-user-research.md](../content/articles/qualitative-vs-quantitative-user-research.md) | Published |
+| 76 | How to prioritize user feedback | [how-to-prioritize-user-feedback.md](../content/articles/how-to-prioritize-user-feedback.md) | Published |
+| 77 | How to run a usability testing session | [how-to-run-a-usability-testing-session.md](../content/articles/how-to-run-a-usability-testing-session.md) | Published |
+| 78 | Signs your product doesn't have product-market fit | [signs-your-product-doesnt-have-product-market-fit.md](../content/articles/signs-your-product-doesnt-have-product-market-fit.md) | Published |
+| 79 | How to measure product-market fit | [how-to-measure-product-market-fit.md](../content/articles/how-to-measure-product-market-fit.md) | Published |
+| 80 | Common mistakes in customer discovery | [common-mistakes-in-customer-discovery.md](../content/articles/common-mistakes-in-customer-discovery.md) | Published |
+| 82 | Now-Next-Later roadmap format explained | [now-next-later-roadmap-format-explained.md](../content/articles/now-next-later-roadmap-format-explained.md) | Published |
 
-**119 of 297 topics published.** Metrics & Analytics cluster is now fully complete (20/20). Working through remaining P2 clusters next.
+**131 of 297 topics published.** User Research & Discovery cluster is now fully complete (15/15). Working through remaining P2 clusters next.
 
 ### Two ways to get this content live
 
