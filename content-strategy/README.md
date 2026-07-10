@@ -193,8 +193,20 @@ Update this table as each batch is written, so future sessions don't duplicate w
 | 109 | How to build a referral program that works | [how-to-build-a-referral-program-that-works.md](../content/articles/how-to-build-a-referral-program-that-works.md) | Published |
 | 110 | Product-led vs sales-led — how to choose for your startup | [product-led-vs-sales-led-how-to-choose-for-your-startup.md](../content/articles/product-led-vs-sales-led-how-to-choose-for-your-startup.md) | Published |
 | 112 | How to write user stories effectively (with template) | [how-to-write-user-stories-effectively.md](../content/articles/how-to-write-user-stories-effectively.md) | Published |
+| 113 | User story vs use case vs requirement | [user-story-vs-use-case-vs-requirement.md](../content/articles/user-story-vs-use-case-vs-requirement.md) | Published |
+| 114 | INVEST criteria for user stories explained | [invest-criteria-for-user-stories-explained.md](../content/articles/invest-criteria-for-user-stories-explained.md) | Published |
+| 115 | How to write acceptance criteria for user stories | [how-to-write-acceptance-criteria-for-user-stories.md](../content/articles/how-to-write-acceptance-criteria-for-user-stories.md) | Published |
+| 116 | Epics vs user stories vs tasks — hierarchy explained | [epics-vs-user-stories-vs-tasks-hierarchy-explained.md](../content/articles/epics-vs-user-stories-vs-tasks-hierarchy-explained.md) | Published |
+| 118 | PRD template for early-stage startups | [prd-template-for-early-stage-startups.md](../content/articles/prd-template-for-early-stage-startups.md) | Published |
+| 119 | How to write a BRD (business requirements document) | [how-to-write-a-brd.md](../content/articles/how-to-write-a-brd.md) | Published |
+| 120 | Functional vs non-functional requirements explained | [functional-vs-non-functional-requirements-explained.md](../content/articles/functional-vs-non-functional-requirements-explained.md) | Published |
+| 123 | Core skills required for a business analyst | [core-skills-required-for-a-business-analyst.md](../content/articles/core-skills-required-for-a-business-analyst.md) | Published |
+| 124 | How to write a business requirements document (BRD) | [how-to-write-a-business-requirements-document.md](../content/articles/how-to-write-a-business-requirements-document.md) | Published |
+| 128 | How to run a requirements gathering workshop | [how-to-run-a-requirements-gathering-workshop.md](../content/articles/how-to-run-a-requirements-gathering-workshop.md) | Published |
+| 129 | What is process mapping in business analysis | [what-is-process-mapping-in-business-analysis.md](../content/articles/what-is-process-mapping-in-business-analysis.md) | Published |
+| 131 | SWOT vs PESTLE analysis for business analysts | [swot-vs-pestle-analysis-for-business-analysts.md](../content/articles/swot-vs-pestle-analysis-for-business-analysts.md) | Published |
 
-**155 of 297 topics published.** Product-Led Growth & Growth Strategies cluster is now fully complete. User Stories & Requirements Writing cluster underway. Working through remaining P2 clusters next.
+**167 of 297 topics published.** User Stories & Requirements Writing cluster is now fully complete. Business Analysis Specific cluster underway. Working through remaining P2 clusters next.
 
 ### Two ways to get this content live
 
