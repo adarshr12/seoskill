@@ -229,8 +229,20 @@ Update this table as each batch is written, so future sessions don't duplicate w
 | 163 | Risk management framework for project managers | [risk-management-framework-for-project-managers.md](../content/articles/risk-management-framework-for-project-managers.md) | Published |
 | 165 | Project management triangle (scope, time, cost) explained | [project-management-triangle-explained.md](../content/articles/project-management-triangle-explained.md) | Published |
 | 166 | How to run an effective project kickoff meeting | [how-to-run-an-effective-project-kickoff-meeting.md](../content/articles/how-to-run-an-effective-project-kickoff-meeting.md) | Published |
+| 169 | Stakeholder management strategies for project managers | [stakeholder-management-strategies-for-project-managers.md](../content/articles/stakeholder-management-strategies-for-project-managers.md) | Published |
+| 170 | Change management process in project management | [change-management-process-in-project-management.md](../content/articles/change-management-process-in-project-management.md) | Published |
+| 172 | CSPO vs PSPO — which Scrum certification is better | [cspo-vs-pspo-which-scrum-certification-is-better.md](../content/articles/cspo-vs-pspo-which-scrum-certification-is-better.md) | Published |
+| 178 | Best free product management courses online | [best-free-product-management-courses-online.md](../content/articles/best-free-product-management-courses-online.md) | Published |
+| 179 | SAFe certification — is it worth it | [safe-certification-is-it-worth-it.md](../content/articles/safe-certification-is-it-worth-it.md) | Published |
+| 180 | Best certifications for business analysts (CBAP, ECBA) | [best-certifications-for-business-analysts.md](../content/articles/best-certifications-for-business-analysts.md) | Published |
+| 181 | Google project management certificate review | [google-project-management-certificate-review.md](../content/articles/google-project-management-certificate-review.md) | Published |
+| 182 | Best AI/ML certifications for product managers | [best-aiml-certifications-for-product-managers.md](../content/articles/best-aiml-certifications-for-product-managers.md) | Published |
+| 183 | Which certification helps most for a PM career switch | [which-certification-helps-most-for-a-pm-career-switch.md](../content/articles/which-certification-helps-most-for-a-pm-career-switch.md) | Published |
+| 185 | Certifications that actually help you get hired as a PM | [certifications-that-actually-help-you-get-hired-as-a-pm.md](../content/articles/certifications-that-actually-help-you-get-hired-as-a-pm.md) | Published |
+| 187 | How to answer "tell me about a time you failed" (PM version) | [how-to-answer-tell-me-about-a-time-you-failed.md](../content/articles/how-to-answer-tell-me-about-a-time-you-failed.md) | Published |
+| 189 | How to answer a case study interview question | [how-to-answer-a-case-study-interview-question.md](../content/articles/how-to-answer-a-case-study-interview-question.md) | Published |
 
-**191 of 297 topics published.** Product Owner / Scrum / Agile cluster is now fully complete. Project Management Specific cluster underway. Working through remaining P2 clusters next.
+**203 of 297 topics published.** Project Management Specific cluster is now fully complete. Certifications and Interview Prep & Career clusters underway. Working through remaining P2 clusters next.
 
 ### Two ways to get this content live
 
