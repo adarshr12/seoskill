@@ -318,7 +318,20 @@ Update this table as each batch is written, so future sessions don't duplicate w
 | 292 | What is a Feature vs a Capability in SAFe | [what-is-a-feature-vs-a-capability-in-safe.md](../content/articles/what-is-a-feature-vs-a-capability-in-safe.md) | Published |
 | 294 | Common mistakes teams make when adopting SAFe | [common-mistakes-teams-make-when-adopting-safe.md](../content/articles/common-mistakes-teams-make-when-adopting-safe.md) | Published |
 
-**275 of 297 topics published.** SAFe Deep-Dive cluster now at 14/25. Career Growth & Excellence (6/10) underway. Certifications cluster (4 topics) and remaining P2/P3 topics next.
+| 70 | How to run a founder-market fit interview | [how-to-run-a-founder-market-fit-interview.md](../content/articles/how-to-run-a-founder-market-fit-interview.md) | Published |
+| 95 | What is partnership-led growth | [what-is-partnership-led-growth.md](../content/articles/what-is-partnership-led-growth.md) | Published |
+| 96 | What is brand-led growth | [what-is-brand-led-growth.md](../content/articles/what-is-brand-led-growth.md) | Published |
+| 139 | Agile business analyst vs waterfall business analyst | [agile-business-analyst-vs-waterfall-business-analyst.md](../content/articles/agile-business-analyst-vs-waterfall-business-analyst.md) | Published |
+| 174 | AIPMM certification review | [aipmm-certification-review.md](../content/articles/aipmm-certification-review.md) | Published |
+| 175 | Product School certification review | [product-school-certification-review.md](../content/articles/product-school-certification-review.md) | Published |
+| 176 | Pragmatic Institute certification review | [pragmatic-institute-certification-review.md](../content/articles/pragmatic-institute-certification-review.md) | Published |
+| 184 | Cost comparison of top PM certifications | [cost-comparison-of-top-pm-certifications.md](../content/articles/cost-comparison-of-top-pm-certifications.md) | Published |
+| 196 | Banking domain PM interview prep | [banking-domain-pm-interview-prep.md](../content/articles/banking-domain-pm-interview-prep.md) | Published |
+| 214 | What is a Scrum of Scrums | [what-is-a-scrum-of-scrums.md](../content/articles/what-is-a-scrum-of-scrums.md) | Published |
+| 218 | What is a dependency map in Agile planning | [what-is-a-dependency-map-in-agile-planning.md](../content/articles/what-is-a-dependency-map-in-agile-planning.md) | Published |
+| 267 | How to build executive presence as a PM | [how-to-build-executive-presence-as-a-pm.md](../content/articles/how-to-build-executive-presence-as-a-pm.md) | Published |
+
+**287 of 297 topics published.** Certifications, Agile Terminology Deep-Dive, User Research & Discovery, Product-Led Growth, and Business Analysis Specific clusters now fully complete. Only 10 topics remain (Career Growth & Excellence x3, SAFe Deep-Dive x7).
 
 ### Two ways to get this content live
 
