@@ -61,8 +61,20 @@ Update this table as each batch is written, so future sessions don't duplicate w
 | 186 | Top product manager interview questions and answers | [top-product-manager-interview-questions-and-answers.md](../content/articles/top-product-manager-interview-questions-and-answers.md) | Published |
 | 284 | SAFe roles explained: RTE vs PM vs PO vs Scrum Master | [safe-roles-explained-rte-vs-product-manager-vs-product-owner-vs-scrum-master.md](../content/articles/safe-roles-explained-rte-vs-product-manager-vs-product-owner-vs-scrum-master.md) | Published |
 | 231 | Requirement gathering techniques for product managers | [requirement-gathering-techniques-for-product-managers.md](../content/articles/requirement-gathering-techniques-for-product-managers.md) | Published |
+| 6 | What is a technical product manager | [what-is-a-technical-product-manager.md](../content/articles/what-is-a-technical-product-manager.md) | Published |
+| 7 | What is a product operations manager | [what-is-a-product-operations-manager.md](../content/articles/what-is-a-product-operations-manager.md) | Published |
+| 8 | What is an AI product manager | [what-is-an-ai-product-manager.md](../content/articles/what-is-an-ai-product-manager.md) | Published |
+| 11 | What is a fractional product manager | [what-is-a-fractional-product-manager.md](../content/articles/what-is-a-fractional-product-manager.md) | Published |
+| 13 | What is a Chief Product Officer (CPO) | [what-is-a-chief-product-officer.md](../content/articles/what-is-a-chief-product-officer.md) | Published |
+| 15 | Skills required to become a product manager | [skills-required-to-become-a-product-manager.md](../content/articles/skills-required-to-become-a-product-manager.md) | Published |
+| 16 | How much do product managers earn (India/US) | [how-much-do-product-managers-earn.md](../content/articles/how-much-do-product-managers-earn.md) | Published |
+| 17 | Is product management a good career in 2026 | [is-product-management-a-good-career-in-2026.md](../content/articles/is-product-management-a-good-career-in-2026.md) | Published |
+| 18 | How to become a product manager without a technical background | [how-to-become-a-product-manager-without-a-technical-background.md](../content/articles/how-to-become-a-product-manager-without-a-technical-background.md) | Published |
+| 19 | Product manager vs business analyst — key differences | [product-manager-vs-business-analyst-key-differences.md](../content/articles/product-manager-vs-business-analyst-key-differences.md) | Published |
+| 24 | Jobs to be Done (JTBD) framework | [jobs-to-be-done-framework.md](../content/articles/jobs-to-be-done-framework.md) | Published |
+| 27 | OKRs vs KPIs — what's the difference | [okrs-vs-kpis-whats-the-difference.md](../content/articles/okrs-vs-kpis-whats-the-difference.md) | Published |
 
-**23 of 297 topics published.** Everything else in the CSV is still open — work top-down by `priority`, P1 first. Remaining P1 topics are the next logical batch; run `python3 supabase/scripts/md_to_seed.py` after any new batch to regenerate the Supabase seed automatically — it's driven entirely by what's in `content/articles/`, so no manual bookkeeping is needed there.
+**35 of 297 topics published.** Everything else in the CSV is still open — work top-down by `priority`, P1 first. Remaining P1 topics are the next logical batch; run `python3 supabase/scripts/md_to_seed.py` after any new batch to regenerate the Supabase seed automatically — it's driven entirely by what's in `content/articles/`, so no manual bookkeeping is needed there.
 
 ### Writing style: plain-language guide applied to every article (2026-07-10)
 
