@@ -292,7 +292,20 @@ Update this table as each batch is written, so future sessions don't duplicate w
 | 253 | Claude skills for product managers — practical use cases | [claude-skills-for-product-managers-practical-use-cases.md](../content/articles/claude-skills-for-product-managers-practical-use-cases.md) | Published |
 | 254 | How to use AI to prioritize your backlog | [how-to-use-ai-to-prioritize-your-backlog.md](../content/articles/how-to-use-ai-to-prioritize-your-backlog.md) | Published |
 
-**251 of 297 topics published.** Requirement Gathering & Documentation cluster is now fully complete. AI for Product Managers cluster underway (16/21). Agile Terminology Deep-Dive (13/15) nearly complete. Certifications cluster (4 topics) and remaining P2/P3 topics next.
+| 255 | How to use AI for roadmap planning | [how-to-use-ai-for-roadmap-planning.md](../content/articles/how-to-use-ai-for-roadmap-planning.md) | Published |
+| 256 | Prompt engineering basics every PM should know | [prompt-engineering-basics-every-pm-should-know.md](../content/articles/prompt-engineering-basics-every-pm-should-know.md) | Published |
+| 257 | How AI is changing the product manager role | [how-ai-is-changing-the-product-manager-role.md](../content/articles/how-ai-is-changing-the-product-manager-role.md) | Published |
+| 259 | How to use AI to analyze customer feedback at scale | [how-to-use-ai-to-analyze-customer-feedback-at-scale.md](../content/articles/how-to-use-ai-to-analyze-customer-feedback-at-scale.md) | Published |
+| 260 | AI product manager vs traditional product manager — skill differences | [ai-product-manager-vs-traditional-product-manager-skill-differences.md](../content/articles/ai-product-manager-vs-traditional-product-manager-skill-differences.md) | Published |
+| 262 | Habits of highly effective product managers | [habits-of-highly-effective-product-managers.md](../content/articles/habits-of-highly-effective-product-managers.md) | Published |
+| 263 | What separates a good PM from a great PM | [what-separates-a-good-pm-from-a-great-pm.md](../content/articles/what-separates-a-good-pm-from-a-great-pm.md) | Published |
+| 264 | How to build product intuition faster | [how-to-build-product-intuition-faster.md](../content/articles/how-to-build-product-intuition-faster.md) | Published |
+| 265 | How to get promoted from PM to senior PM | [how-to-get-promoted-from-pm-to-senior-pm.md](../content/articles/how-to-get-promoted-from-pm-to-senior-pm.md) | Published |
+| 266 | What senior leadership actually looks for in a PM | [what-senior-leadership-actually-looks-for-in-a-pm.md](../content/articles/what-senior-leadership-actually-looks-for-in-a-pm.md) | Published |
+| 271 | Who owns the release in SAFe | [who-owns-the-release-in-safe.md](../content/articles/who-owns-the-release-in-safe.md) | Published |
+| 272 | What does a Release Train Engineer (RTE) do in SAFe | [what-does-a-release-train-engineer-do-in-safe.md](../content/articles/what-does-a-release-train-engineer-do-in-safe.md) | Published |
+
+**263 of 297 topics published.** AI for Product Managers cluster is now fully complete. Career Growth & Excellence (6/10) and SAFe Deep-Dive (2/25) underway. Certifications cluster (4 topics) and remaining P2/P3 topics next.
 
 ### Two ways to get this content live
 
