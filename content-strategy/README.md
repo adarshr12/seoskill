@@ -205,8 +205,20 @@ Update this table as each batch is written, so future sessions don't duplicate w
 | 128 | How to run a requirements gathering workshop | [how-to-run-a-requirements-gathering-workshop.md](../content/articles/how-to-run-a-requirements-gathering-workshop.md) | Published |
 | 129 | What is process mapping in business analysis | [what-is-process-mapping-in-business-analysis.md](../content/articles/what-is-process-mapping-in-business-analysis.md) | Published |
 | 131 | SWOT vs PESTLE analysis for business analysts | [swot-vs-pestle-analysis-for-business-analysts.md](../content/articles/swot-vs-pestle-analysis-for-business-analysts.md) | Published |
+| 133 | How to do root cause analysis (5 Whys, fishbone) | [how-to-do-root-cause-analysis.md](../content/articles/how-to-do-root-cause-analysis.md) | Published |
+| 135 | Business analyst interview questions and answers | [business-analyst-interview-questions-and-answers.md](../content/articles/business-analyst-interview-questions-and-answers.md) | Published |
+| 136 | How to transition from BA to product manager | [how-to-transition-from-ba-to-product-manager.md](../content/articles/how-to-transition-from-ba-to-product-manager.md) | Published |
+| 137 | What tools do business analysts use (Jira, Visio, Confluence) | [what-tools-do-business-analysts-use.md](../content/articles/what-tools-do-business-analysts-use.md) | Published |
+| 140 | How to write effective business requirements | [how-to-write-effective-business-requirements.md](../content/articles/how-to-write-effective-business-requirements.md) | Published |
+| 142 | Product owner vs Scrum master — key differences | [product-owner-vs-scrum-master-key-differences.md](../content/articles/product-owner-vs-scrum-master-key-differences.md) | Published |
+| 143 | How to write and manage a product backlog | [how-to-write-and-manage-a-product-backlog.md](../content/articles/how-to-write-and-manage-a-product-backlog.md) | Published |
+| 144 | Backlog grooming/refinement best practices | [backlog-groomingrefinement-best-practices.md](../content/articles/backlog-groomingrefinement-best-practices.md) | Published |
+| 145 | Sprint planning process for product owners | [sprint-planning-process-for-product-owners.md](../content/articles/sprint-planning-process-for-product-owners.md) | Published |
+| 146 | What is Definition of Done in Agile | [what-is-definition-of-done-in-agile.md](../content/articles/what-is-definition-of-done-in-agile.md) | Published |
+| 147 | What is Definition of Ready for user stories | [what-is-definition-of-ready-for-user-stories.md](../content/articles/what-is-definition-of-ready-for-user-stories.md) | Published |
+| 148 | Story points vs hours estimation — which is better | [story-points-vs-hours-estimation-which-is-better.md](../content/articles/story-points-vs-hours-estimation-which-is-better.md) | Published |
 
-**167 of 297 topics published.** User Stories & Requirements Writing cluster is now fully complete. Business Analysis Specific cluster underway. Working through remaining P2 clusters next.
+**179 of 297 topics published.** Business Analysis Specific cluster is now fully complete. Product Owner / Scrum / Agile cluster underway. Working through remaining P2 clusters next.
 
 ### Two ways to get this content live
 
