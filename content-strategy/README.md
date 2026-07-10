@@ -253,8 +253,20 @@ Update this table as each batch is written, so future sessions don't duplicate w
 | 202 | Mock interview practice for product managers — how to prepare | [mock-interview-practice-for-product-managers-how-to-prepare.md](../content/articles/mock-interview-practice-for-product-managers-how-to-prepare.md) | Published |
 | 204 | First 90 days as a new product manager — what to focus on | [first-90-days-as-a-new-product-manager-what-to-focus-on.md](../content/articles/first-90-days-as-a-new-product-manager-what-to-focus-on.md) | Published |
 | 205 | How to prepare for a PM interview in one week | [how-to-prepare-for-a-pm-interview-in-one-week.md](../content/articles/how-to-prepare-for-a-pm-interview-in-one-week.md) | Published |
+| 209 | What is a task vs a subtask in Agile | [what-is-a-task-vs-a-subtask-in-agile.md](../content/articles/what-is-a-task-vs-a-subtask-in-agile.md) | Published |
+| 211 | What is a Scrum ceremony — full list explained | [what-is-a-scrum-ceremony-full-list-explained.md](../content/articles/what-is-a-scrum-ceremony-full-list-explained.md) | Published |
+| 212 | What is velocity in Agile and how to calculate it | [what-is-velocity-in-agile-and-how-to-calculate-it.md](../content/articles/what-is-velocity-in-agile-and-how-to-calculate-it.md) | Published |
+| 213 | What is a burndown chart vs burnup chart | [what-is-a-burndown-chart-vs-burnup-chart.md](../content/articles/what-is-a-burndown-chart-vs-burnup-chart.md) | Published |
+| 215 | What is an Agile Release Train (ART) in SAFe | [what-is-an-agile-release-train-in-safe.md](../content/articles/what-is-an-agile-release-train-in-safe.md) | Published |
+| 217 | What is technical debt and how PMs should manage it | [what-is-technical-debt-and-how-pms-should-manage-it.md](../content/articles/what-is-technical-debt-and-how-pms-should-manage-it.md) | Published |
+| 220 | Difference between epic, feature, story, and task | [difference-between-epic-feature-story-and-task.md](../content/articles/difference-between-epic-feature-story-and-task.md) | Published |
+| 222 | Guesstimate framework step by step (with example) | [guesstimate-framework-step-by-step.md](../content/articles/guesstimate-framework-step-by-step.md) | Published |
+| 223 | How to estimate market size (TAM SAM SOM explained) | [how-to-estimate-market-size.md](../content/articles/how-to-estimate-market-size.md) | Published |
+| 224 | How to answer "how many X are sold in India" type questions | [how-to-answer-how-many-x-are-sold-in-india-type-questions.md](../content/articles/how-to-answer-how-many-x-are-sold-in-india-type-questions.md) | Published |
+| 225 | Common guesstimate interview questions with solutions | [common-guesstimate-interview-questions-with-solutions.md](../content/articles/common-guesstimate-interview-questions-with-solutions.md) | Published |
+| 226 | T-shirt sizing vs story points — which to use | [t-shirt-sizing-vs-story-points-which-to-use.md](../content/articles/t-shirt-sizing-vs-story-points-which-to-use.md) | Published |
 
-**215 of 297 topics published.** Interview Prep & Career cluster is now fully complete. Certifications cluster (4 topics) and remaining P2/P3 topics next.
+**227 of 297 topics published.** Agile Terminology Deep-Dive (13/15) and Estimation & Guesstimates (6/10) clusters nearly complete. Certifications cluster (4 topics) and remaining P2/P3 topics next.
 
 ### Two ways to get this content live
 
